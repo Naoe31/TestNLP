@@ -1,0 +1,4149 @@
+[
+  {
+    "Source": "Traveloka",
+    "Reviewer": "Rizky87",
+    "ReviewText": "The private suite seat was extremely comfortable and felt very premium. I loved how far it reclined – I could almost lie flat and sleep peacefully.",
+    "id": 8037,
+    "label": [
+      {
+        "start": 91,
+        "end": 99,
+        "text": "reclined",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 422,
+    "created_at": "2025-05-24T11:43:15.196357Z",
+    "updated_at": "2025-05-24T11:43:15.196357Z",
+    "lead_time": 9.246
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "Anonymous",
+    "ReviewText": "The seat was plush and could recline into a flat bed, which made my overnight trip very relaxing. It felt like flying first class on a train!",
+    "id": 8038,
+    "label": [
+      {
+        "start": 29,
+        "end": 36,
+        "text": "recline",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 423,
+    "created_at": "2025-05-24T11:43:52.554948Z",
+    "updated_at": "2025-05-24T11:43:52.554948Z",
+    "lead_time": 20.987
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "Dewi",
+    "ReviewText": "Amazing experience! The suite’s seat comes with a massage function and seat warmer, making the long journey super comfortable and cozy.",
+    "id": 8039,
+    "label": [
+      {
+        "start": 50,
+        "end": 66,
+        "text": "massage function",
+        "labels": [
+          "seat_message"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 82,
+        "text": "seat warmer",
+        "labels": [
+          "seat_warmer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 424,
+    "created_at": "2025-05-24T11:44:47.895296Z",
+    "updated_at": "2025-05-24T11:44:47.895296Z",
+    "lead_time": 15.214
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "Budi34",
+    "ReviewText": "Traveling in the suite compartment was worth it. The seat is spacious with plenty of legroom, and I appreciated the personal TV and headphones provided at the seat.",
+    "id": 8040,
+    "label": [
+      {
+        "start": 85,
+        "end": 92,
+        "text": "legroom",
+        "labels": [
+          "footrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 425,
+    "created_at": "2025-05-24T11:45:25.342774Z",
+    "updated_at": "2025-05-24T11:45:25.342774Z",
+    "lead_time": 35.921
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "Anonymous",
+    "ReviewText": "Honestly, the seat was comfortable for sitting, but I found it a bit too firm to sleep on for the whole night. I expected a softer cushion at this price.",
+    "id": 8041,
+    "label": [
+      {
+        "start": 131,
+        "end": 138,
+        "text": "cushion",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 426,
+    "created_at": "2025-05-24T11:45:35.092084Z",
+    "updated_at": "2025-05-24T11:45:35.092084Z",
+    "lead_time": 8.496
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "Yulia",
+    "ReviewText": "Loved the privacy of the suite. The sliding door gave me a quiet space, and the reclining leather seat with adjustable footrest let me stretch out comfortably.",
+    "id": 8042,
+    "label": [
+      {
+        "start": 80,
+        "end": 89,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 97,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 127,
+        "text": "footrest",
+        "labels": [
+          "footrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 427,
+    "created_at": "2025-05-24T11:45:55.261381Z",
+    "updated_at": "2025-05-24T11:45:55.261381Z",
+    "lead_time": 18.906
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "Michael",
+    "ReviewText": "Excellent service and an incredibly comfortable seat. I especially enjoyed the built-in massage – it kept me relaxed throughout the 10-hour ride.",
+    "id": 8043,
+    "label": [
+      {
+        "start": 88,
+        "end": 95,
+        "text": "massage",
+        "labels": [
+          "seat_message"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 428,
+    "created_at": "2025-05-24T11:46:05.496201Z",
+    "updated_at": "2025-05-24T11:46:05.496201Z",
+    "lead_time": 8.108
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "Anonymous",
+    "ReviewText": "It’s a cool experience to have a lie-flat seat on a train. The controls were easy to use and I could adjust the seat angle for reading or napping easily.",
+    "id": 8045,
+    "label": [
+      {
+        "start": 112,
+        "end": 122,
+        "text": "seat angle",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 429,
+    "created_at": "2025-05-24T11:46:31.941697Z",
+    "updated_at": "2025-05-24T11:46:31.941697Z",
+    "lead_time": 12.105
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "Lina",
+    "ReviewText": "The chair was comfortable and came with a blanket and pillow which was nice. However, the tray table was pretty small – barely fit my laptop.",
+    "id": 8047,
+    "label": [
+      {
+        "start": 90,
+        "end": 100,
+        "text": "tray table",
+        "labels": [
+          "traytable"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 552,
+    "created_at": "2025-05-24T12:24:19.424818Z",
+    "updated_at": "2025-05-24T12:24:19.424818Z",
+    "lead_time": 12.141
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "Anonymous",
+    "ReviewText": "A truly premium feel. The leather seat is soft, and you get a personal compartment. The seat even rotates to face the window, which was great for the view.",
+    "id": 8048,
+    "label": [
+      {
+        "start": 26,
+        "end": 33,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 430,
+    "created_at": "2025-05-24T11:46:57.650195Z",
+    "updated_at": "2025-05-24T11:46:57.650195Z",
+    "lead_time": 9.412
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "Rahul",
+    "ReviewText": "I appreciated the big, cozy reclining seat and the personal space. It made the high ticket price feel justified for a once-in-a-lifetime train trip.",
+    "id": 8049,
+    "label": [
+      {
+        "start": 28,
+        "end": 37,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 431,
+    "created_at": "2025-05-24T11:47:08.988162Z",
+    "updated_at": "2025-05-24T11:47:08.988162Z",
+    "lead_time": 10.006
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "Anonymous",
+    "ReviewText": "Absolutely loved the reclining seat and the fact that it has a massage function. The journey felt shorter because I was so relaxed in my private seat.",
+    "id": 8052,
+    "label": [
+      {
+        "start": 21,
+        "end": 30,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 70,
+        "text": "massage",
+        "labels": [
+          "seat_message"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 432,
+    "created_at": "2025-05-24T11:47:50.276030Z",
+    "updated_at": "2025-05-24T11:47:50.276030Z",
+    "lead_time": 11.332
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "Anonymous",
+    "ReviewText": "The privacy and comfort of the seat are on another level. I didn’t even hear much noise from outside when I closed the door and reclined my seat.",
+    "id": 8055,
+    "label": [
+      {
+        "start": 128,
+        "end": 136,
+        "text": "reclined",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 433,
+    "created_at": "2025-05-24T11:48:21.189504Z",
+    "updated_at": "2025-05-24T11:48:21.189504Z",
+    "lead_time": 7.295
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "Agus",
+    "ReviewText": "The best train seat I’ve ever tried. It reclines completely flat, and the built-in seat warmer kept me from getting cold in the AC.",
+    "id": 8059,
+    "label": [
+      {
+        "start": 40,
+        "end": 48,
+        "text": "reclines",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 434,
+    "created_at": "2025-05-24T11:49:00.621379Z",
+    "updated_at": "2025-05-24T11:49:00.621379Z",
+    "lead_time": 10.331
+  },
+  {
+    "Source": "YouTube",
+    "Reviewer": "TrainGuru",
+    "ReviewText": "I tried the KAI suite after seeing a video about it, and it blew my mind. The seat was like a first-class airplane seat, complete with a full recline and massage feature.",
+    "id": 8062,
+    "label": [
+      {
+        "start": 142,
+        "end": 149,
+        "text": "recline",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 154,
+        "end": 161,
+        "text": "massage",
+        "labels": [
+          "seat_message"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 435,
+    "created_at": "2025-05-24T11:49:30.742636Z",
+    "updated_at": "2025-05-24T11:49:30.742636Z",
+    "lead_time": 13.821
+  },
+  {
+    "Source": "YouTube",
+    "Reviewer": "WanderlustMike",
+    "ReviewText": "This train’s suite compartment is absolutely worth it. The reclining seat was super comfy for the overnight trip and I loved having my own private space.",
+    "id": 8063,
+    "label": [
+      {
+        "start": 59,
+        "end": 68,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 436,
+    "created_at": "2025-05-24T11:49:39.436015Z",
+    "updated_at": "2025-05-24T11:49:39.436015Z",
+    "lead_time": 7.186
+  },
+  {
+    "Source": "YouTube",
+    "Reviewer": "Anonymous",
+    "ReviewText": "Honestly, the suite class seat was comfortable but not as soft as I expected. It’s cool that it lies flat, but the cushioning felt a little firm when sleeping.",
+    "id": 8065,
+    "label": [
+      {
+        "start": 115,
+        "end": 125,
+        "text": "cushioning",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 437,
+    "created_at": "2025-05-24T11:49:56.739250Z",
+    "updated_at": "2025-05-24T11:49:56.739250Z",
+    "lead_time": 9.654
+  },
+  {
+    "Source": "YouTube",
+    "Reviewer": "GlobalTraveler",
+    "ReviewText": "Watched a review and had to try it myself – the seat is excellent with great legroom. The only con: the fold-out table is quite small for big meals or a laptop.",
+    "id": 8067,
+    "label": [
+      {
+        "start": 77,
+        "end": 84,
+        "text": "legroom",
+        "labels": [
+          "footrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 438,
+    "created_at": "2025-05-24T11:50:24.935925Z",
+    "updated_at": "2025-05-24T11:50:24.935925Z",
+    "lead_time": 16.839
+  },
+  {
+    "Source": "YouTube",
+    "Reviewer": "Arya",
+    "ReviewText": "As someone who’s 6 feet tall, I found the suite seat surprisingly accommodating. It reclined fully and I could stretch out, though turning over was a bit tight.",
+    "id": 8068,
+    "label": [
+      {
+        "start": 84,
+        "end": 92,
+        "text": "reclined",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 439,
+    "created_at": "2025-05-24T11:50:35.576973Z",
+    "updated_at": "2025-05-24T11:50:35.576973Z",
+    "lead_time": 8.287
+  },
+  {
+    "Source": "YouTube",
+    "Reviewer": "NusantaraVlog",
+    "ReviewText": "Loved the experience! The seat even had seat warming and a massage function. Fell asleep with the gentle vibration of the massage – so relaxing.",
+    "id": 8069,
+    "label": [
+      {
+        "start": 40,
+        "end": 52,
+        "text": "seat warming",
+        "labels": [
+          "seat_warmer"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 75,
+        "text": "massage function",
+        "labels": [
+          "seat_message"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 440,
+    "created_at": "2025-05-24T11:50:50.504314Z",
+    "updated_at": "2025-05-24T11:50:50.504314Z",
+    "lead_time": 11.011
+  },
+  {
+    "Source": "Instagram",
+    "Reviewer": "backpackbro",
+    "ReviewText": "Living the sultan life on a train! The suite compartment is pure luxury. The seat’s cushion is so soft and there’s even a footrest and blanket provided.",
+    "id": 8096,
+    "label": [
+      {
+        "start": 84,
+        "end": 91,
+        "text": "cushion",
+        "labels": [
+          "cushion"
+        ]
+      },
+      {
+        "start": 122,
+        "end": 130,
+        "text": "footrest",
+        "labels": [
+          "footrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 501,
+    "created_at": "2025-05-24T12:09:53.662251Z",
+    "updated_at": "2025-05-24T12:09:53.662251Z",
+    "lead_time": 12.357
+  },
+  {
+    "Source": "Instagram",
+    "Reviewer": "Anonymous",
+    "ReviewText": "So much comfort in one seat! I enjoyed every moment in the suite. The only minor issue: the tray table is small, but I managed fine with it.",
+    "id": 8110,
+    "label": [
+      {
+        "start": 92,
+        "end": 102,
+        "text": "tray table",
+        "labels": [
+          "traytable"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 553,
+    "created_at": "2025-05-24T12:24:26.972293Z",
+    "updated_at": "2025-05-24T12:24:26.973291Z",
+    "lead_time": 6.241
+  },
+  {
+    "Source": "Blog",
+    "Reviewer": "RailJournal",
+    "ReviewText": "The private suite’s seat is on par with a business class airline seat in many ways. It’s leather, fully reclining, and even has a massage function. However, the tray table is tiny and I struggled to place my laptop on it comfortably.",
+    "id": 8115,
+    "label": [
+      {
+        "start": 89,
+        "end": 96,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 104,
+        "end": 113,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 161,
+        "end": 171,
+        "text": "tray table",
+        "labels": [
+          "traytable"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 554,
+    "created_at": "2025-05-24T12:24:44.313427Z",
+    "updated_at": "2025-05-24T12:24:44.313427Z",
+    "lead_time": 15.957
+  },
+  {
+    "Source": "Blog",
+    "Reviewer": "Anonymous",
+    "ReviewText": "From a luxury travel perspective, the seat and service are excellent. A minor issue I encountered was that the headrest is fixed and not adjustable, which could be inconvenient for shorter or taller people trying to get comfy.",
+    "id": 8116,
+    "label": [
+      {
+        "start": 111,
+        "end": 119,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 525,
+    "created_at": "2025-05-24T12:15:42.262974Z",
+    "updated_at": "2025-05-24T12:15:42.262974Z",
+    "lead_time": 29.296
+  },
+  {
+    "Source": "Blog",
+    "Reviewer": "DTravel",
+    "ReviewText": "In-depth experience: The suite’s leather seat felt premium and had all these controls for every part (leg rest, backrest, etc.). It even rotates to face the window. My only complaint is that I could hear some track noise when lying down, but closing the door helped.",
+    "id": 8123,
+    "label": [
+      {
+        "start": 33,
+        "end": 40,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 112,
+        "end": 120,
+        "text": "backrest",
+        "labels": [
+          "backrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 496,
+    "created_at": "2025-05-24T12:06:54.623978Z",
+    "updated_at": "2025-05-24T12:06:54.623978Z",
+    "lead_time": 19.649
+  },
+  {
+    "Source": "Blog",
+    "Reviewer": "Wahid",
+    "ReviewText": "Detailed observations: The armrest hides a folding tray table, which is small and had to be stowed to exit the seat. Also, the seat’s massage feature worked well for me, but taller friends said it didn’t hit the right spots for them.",
+    "id": 8127,
+    "label": [
+      {
+        "start": 27,
+        "end": 34,
+        "text": "armrest",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 127,
+        "end": 141,
+        "text": "seat’s massage",
+        "labels": [
+          "seat_message"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 441,
+    "created_at": "2025-05-24T11:51:56.316932Z",
+    "updated_at": "2025-05-24T11:51:56.316932Z",
+    "lead_time": 19.356
+  },
+  {
+    "Source": "Blog",
+    "Reviewer": "Anonymous",
+    "ReviewText": "Summing up my review: seat comfort 9\/10, privacy 10\/10, amenities 9\/10. I deducted points because the seat, while great for sitting, could use a bit more cushion for sleeping positions and the overall cost is steep.",
+    "id": 8135,
+    "label": [
+      {
+        "start": 154,
+        "end": 161,
+        "text": "cushion",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 502,
+    "created_at": "2025-05-24T12:10:05.750156Z",
+    "updated_at": "2025-05-24T12:10:05.750156Z",
+    "lead_time": 10.801
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "Anonymous",
+    "ReviewText": "The seat cushioning is plush and supportive, I was comfy the whole ride.",
+    "id": 8153,
+    "label": [
+      {
+        "start": 9,
+        "end": 19,
+        "text": "cushioning",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 503,
+    "created_at": "2025-05-24T12:10:11.724985Z",
+    "updated_at": "2025-05-24T12:10:11.724985Z",
+    "lead_time": 4.548
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "Anonymous",
+    "ReviewText": "Dining at my seat was easy with the large fold-out tray table – it was like having a personal dining car.",
+    "id": 8202,
+    "label": [
+      {
+        "start": 51,
+        "end": 61,
+        "text": "tray table",
+        "labels": [
+          "traytable"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 555,
+    "created_at": "2025-05-24T12:24:58.998520Z",
+    "updated_at": "2025-05-24T12:24:58.998520Z",
+    "lead_time": 6.992
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "Anonymous",
+    "ReviewText": "The seat comes with a tray table and personal lamp, all within easy reach and well-designed.",
+    "id": 8206,
+    "label": [
+      {
+        "start": 22,
+        "end": 32,
+        "text": "tray table",
+        "labels": [
+          "traytable"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 556,
+    "created_at": "2025-05-24T12:25:05.433207Z",
+    "updated_at": "2025-05-24T12:25:05.433207Z",
+    "lead_time": 4.833
+  },
+  {
+    "Source": "YouTube",
+    "Reviewer": "MayaNomad",
+    "ReviewText": "The seat has an adjustable footrest and headrest; I could position everything exactly how I liked.",
+    "id": 8220,
+    "label": [
+      {
+        "start": 27,
+        "end": 35,
+        "text": "footrest",
+        "labels": [
+          "footrest"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 48,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 526,
+    "created_at": "2025-05-24T12:15:50.894963Z",
+    "updated_at": "2025-05-24T12:15:50.894963Z",
+    "lead_time": 7.383
+  },
+  {
+    "Source": "Traveloka (Travel Bestie blog)",
+    "Reviewer": "Travel Bestie (Traveloka blog)",
+    "ReviewText": "“The suite class seat can recline up to 180 degrees and also revolve to align with the train’s direction. The headrest, leg rest, and backrest angles are adjustable. It has a fold-out tray table and includes seat heating and a massage function.”",
+    "id": 8237,
+    "label": [
+      {
+        "start": 26,
+        "end": 33,
+        "text": "recline",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 110,
+        "end": 118,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      },
+      {
+        "start": 120,
+        "end": 128,
+        "text": "leg rest",
+        "labels": [
+          "footrest"
+        ]
+      },
+      {
+        "start": 134,
+        "end": 142,
+        "text": "backrest",
+        "labels": [
+          "backrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 497,
+    "created_at": "2025-05-24T12:07:14.181388Z",
+    "updated_at": "2025-05-24T12:07:22.839773Z",
+    "lead_time": 26.063
+  },
+  {
+    "Source": "PinterPoin (train review)",
+    "Reviewer": "Eric (PinterPoin blog)",
+    "ReviewText": "“The suite has one recliner seat and very spacious legroom. The seat automatically rotates to face the direction of travel. The left armrest slides back, revealing a fold-out table behind it.”",
+    "id": 8238,
+    "label": [
+      {
+        "start": 19,
+        "end": 27,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 58,
+        "text": "legroom",
+        "labels": [
+          "footrest"
+        ]
+      },
+      {
+        "start": 133,
+        "end": 140,
+        "text": "armrest",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 442,
+    "created_at": "2025-05-24T11:52:23.275386Z",
+    "updated_at": "2025-05-24T11:52:23.275386Z",
+    "lead_time": 24.343
+  },
+  {
+    "Source": "Kompasiana (user blog)",
+    "Reviewer": "Andri Mastiyanto (Kompasiana)",
+    "ReviewText": "“The seat isn’t upright; it’s long enough to support your head and the distance to the front seat means your knees don’t touch it. The tilt can be adjusted (though the button is a bit stiff). The suite has a high-tech seat that reclines 180° like a bed, with a table, a cup holder, and even a back massage feature.”",
+    "id": 8240,
+    "label": [
+      {
+        "start": 228,
+        "end": 236,
+        "text": "reclines",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 298,
+        "end": 313,
+        "text": "massage feature",
+        "labels": [
+          "seat_message"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 527,
+    "created_at": "2025-05-24T12:16:11.558122Z",
+    "updated_at": "2025-05-24T12:16:11.558122Z",
+    "lead_time": 19.323
+  },
+  {
+    "Source": "ANTARA News (press release)",
+    "Reviewer": "Anne Purba (KAI PR VP)",
+    "ReviewText": "“The seat can recline up to 180 degrees to serve as a bed and also revolves so passengers can face the direction of travel. The angles of the headrest, leg rest, and backrest are all adjustable, and the seat heating level can be controlled. The seat has a massage feature with various techniques. Each seat also has a fold-out tray table for dining or working.”",
+    "id": 8241,
+    "label": [
+      {
+        "start": 14,
+        "end": 21,
+        "text": "recline",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 142,
+        "end": 150,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      },
+      {
+        "start": 152,
+        "end": 160,
+        "text": "leg rest",
+        "labels": [
+          "footrest"
+        ]
+      },
+      {
+        "start": 166,
+        "end": 174,
+        "text": "backrest",
+        "labels": [
+          "backrest"
+        ]
+      },
+      {
+        "start": 203,
+        "end": 215,
+        "text": "seat heating",
+        "labels": [
+          "seat_warmer"
+        ]
+      },
+      {
+        "start": 256,
+        "end": 271,
+        "text": "massage feature",
+        "labels": [
+          "seat_message"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 498,
+    "created_at": "2025-05-24T12:07:57.975427Z",
+    "updated_at": "2025-05-24T12:07:57.975427Z",
+    "lead_time": 31.889
+  },
+  {
+    "Source": "Traveloka (Travel Bestie blog)",
+    "Reviewer": "Travel Bestie (Traveloka blog)",
+    "ReviewText": "“The suite class seat can recline up to 180 degrees and also revolve to align with the train’s direction. The headrest, leg rest, and backrest angles are adjustable. It has a fold-out tray table and includes seat heating and a massage function.”",
+    "id": 8245,
+    "label": [
+      {
+        "start": 110,
+        "end": 118,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      },
+      {
+        "start": 120,
+        "end": 128,
+        "text": "leg rest",
+        "labels": [
+          "footrest"
+        ]
+      },
+      {
+        "start": 134,
+        "end": 142,
+        "text": "backrest",
+        "labels": [
+          "backrest"
+        ]
+      },
+      {
+        "start": 208,
+        "end": 220,
+        "text": "seat heating",
+        "labels": [
+          "seat_warmer"
+        ]
+      },
+      {
+        "start": 227,
+        "end": 243,
+        "text": "massage function",
+        "labels": [
+          "seat_message"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 499,
+    "created_at": "2025-05-24T12:08:13.337068Z",
+    "updated_at": "2025-05-24T12:08:22.131817Z",
+    "lead_time": 21.701
+  },
+  {
+    "Source": "PinterPoin (train review)",
+    "Reviewer": "Eric (PinterPoin blog)",
+    "ReviewText": "“The suite has one recliner seat and very spacious legroom. The seat automatically rotates to face the direction of travel. The left armrest slides back, revealing a fold-out table behind it.”",
+    "id": 8246,
+    "label": [
+      {
+        "start": 19,
+        "end": 27,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 58,
+        "text": "legroom",
+        "labels": [
+          "footrest"
+        ]
+      },
+      {
+        "start": 133,
+        "end": 140,
+        "text": "armrest",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 443,
+    "created_at": "2025-05-24T11:52:40.361822Z",
+    "updated_at": "2025-05-24T11:52:40.361822Z",
+    "lead_time": 15.584
+  },
+  {
+    "Source": "ANTARA News (press release)",
+    "Reviewer": "Anne Purba (KAI PR VP)",
+    "ReviewText": "“The seat can recline up to 180 degrees to serve as a bed and also revolves so passengers can face the direction of travel. The angles of the headrest, leg rest, and backrest are all adjustable, and the seat heating level can be controlled. The seat has a massage feature with various techniques. Each seat also has a fold-out tray table for dining or working.”",
+    "id": 8249,
+    "label": [
+      {
+        "start": 14,
+        "end": 21,
+        "text": "recline",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 142,
+        "end": 150,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      },
+      {
+        "start": 152,
+        "end": 160,
+        "text": "leg rest",
+        "labels": [
+          "footrest"
+        ]
+      },
+      {
+        "start": 166,
+        "end": 174,
+        "text": "backrest",
+        "labels": [
+          "backrest"
+        ]
+      },
+      {
+        "start": 203,
+        "end": 215,
+        "text": "seat heating",
+        "labels": [
+          "seat_warmer"
+        ]
+      },
+      {
+        "start": 256,
+        "end": 271,
+        "text": "massage feature",
+        "labels": [
+          "seat_message"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 500,
+    "created_at": "2025-05-24T12:08:47.438767Z",
+    "updated_at": "2025-05-24T12:08:47.438767Z",
+    "lead_time": 24.302
+  },
+  {
+    "Source": "IDN Times",
+    "Reviewer": "Fasrinisyah S.",
+    "ReviewText": "Head-rest, leg-rest and back-rest angles are individually adjustable, and a fold-out tray lets the seat double as a work desk. (IDN Times)",
+    "id": 8257,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "Head-rest",
+        "labels": [
+          "headrest"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 19,
+        "text": "leg-rest",
+        "labels": [
+          "footrest"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 33,
+        "text": "back-rest",
+        "labels": [
+          "backrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 528,
+    "created_at": "2025-05-24T12:16:32.109838Z",
+    "updated_at": "2025-05-24T12:16:32.109838Z",
+    "lead_time": 11.419
+  },
+  {
+    "Source": "Synthetic",
+    "Reviewer": "User014",
+    "ReviewText": "After two hours, the lumbar support felt slightly stiff; a small cushion fixed it.",
+    "id": 8280,
+    "label": [
+      {
+        "start": 21,
+        "end": 35,
+        "text": "lumbar support",
+        "labels": [
+          "lumbar_support"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 72,
+        "text": "cushion",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 504,
+    "created_at": "2025-05-24T12:10:20.857632Z",
+    "updated_at": "2025-05-24T12:10:20.857632Z",
+    "lead_time": 7.953
+  },
+  {
+    "Source": "Synthetic",
+    "Reviewer": "User018",
+    "ReviewText": "Fans of soft mattresses might find the seat cushion a touch hard; I prefer it that way.",
+    "id": 8284,
+    "label": [
+      {
+        "start": 44,
+        "end": 51,
+        "text": "cushion",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 505,
+    "created_at": "2025-05-24T12:10:34.668950Z",
+    "updated_at": "2025-05-24T12:10:34.668950Z",
+    "lead_time": 12.347
+  },
+  {
+    "Source": "Synthetic",
+    "Reviewer": "User020",
+    "ReviewText": "My seat’s head-rest doesn’t adjust, so a taller friend had to slouch slightly.",
+    "id": 8286,
+    "label": [
+      {
+        "start": 10,
+        "end": 19,
+        "text": "head-rest",
+        "labels": [
+          "headrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 529,
+    "created_at": "2025-05-24T12:16:43.706064Z",
+    "updated_at": "2025-05-24T12:16:43.706064Z",
+    "lead_time": 5.652
+  },
+  {
+    "Source": "Synthetic",
+    "Reviewer": "User029",
+    "ReviewText": "At full recline the seat cushion aligns flush with the foot-rest—no uncomfortable gaps.",
+    "id": 8295,
+    "label": [
+      {
+        "start": 8,
+        "end": 15,
+        "text": "recline",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 32,
+        "text": "cushion",
+        "labels": [
+          "cushion"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 64,
+        "text": "foot-rest",
+        "labels": [
+          "footrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 506,
+    "created_at": "2025-05-24T12:10:49.178818Z",
+    "updated_at": "2025-05-24T12:10:49.178818Z",
+    "lead_time": 13.122
+  },
+  {
+    "Source": "Synthetic",
+    "Reviewer": "User046",
+    "ReviewText": "Bouncy track section woke me; seat cushion damped most, but head-rest rattled slightly.",
+    "id": 8312,
+    "label": [
+      {
+        "start": 35,
+        "end": 42,
+        "text": "cushion",
+        "labels": [
+          "cushion"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 69,
+        "text": "head-rest",
+        "labels": [
+          "headrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 507,
+    "created_at": "2025-05-24T12:11:02.119063Z",
+    "updated_at": "2025-05-24T12:11:02.119063Z",
+    "lead_time": 11.496
+  },
+  {
+    "Source": "Synthetic",
+    "Reviewer": "User052",
+    "ReviewText": "Head-rest angles are fixed; bringing a travel pillow helps side-sleepers.",
+    "id": 8318,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "Head-rest",
+        "labels": [
+          "headrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 530,
+    "created_at": "2025-05-24T12:16:51.843541Z",
+    "updated_at": "2025-05-24T12:16:51.843541Z",
+    "lead_time": 5.723
+  },
+  {
+    "Source": "Synthetic",
+    "Reviewer": "User063",
+    "ReviewText": "Legroom is immense; even with seat forward in bed mode, toes don’t touch the bulkhead.",
+    "id": 8329,
+    "label": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "Legroom",
+        "labels": [
+          "footrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 531,
+    "created_at": "2025-05-24T12:17:00.280708Z",
+    "updated_at": "2025-05-24T12:17:00.280708Z",
+    "lead_time": 5.842
+  },
+  {
+    "Source": "Synthetic",
+    "Reviewer": "User065",
+    "ReviewText": "The split cushion design reduces pressure on tailbone on long sits.",
+    "id": 8331,
+    "label": [
+      {
+        "start": 10,
+        "end": 17,
+        "text": "cushion",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 508,
+    "created_at": "2025-05-24T12:11:08.298061Z",
+    "updated_at": "2025-05-24T12:11:08.298061Z",
+    "lead_time": 4.815
+  },
+  {
+    "Source": "Synthetic",
+    "Reviewer": "User066",
+    "ReviewText": "Seat fabric at the arm-rest edge feels stiff—glad the main cushion is leather.",
+    "id": 8332,
+    "label": [
+      {
+        "start": 5,
+        "end": 11,
+        "text": "fabric",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 66,
+        "text": "cushion",
+        "labels": [
+          "cushion"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 77,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 509,
+    "created_at": "2025-05-24T12:11:27.227649Z",
+    "updated_at": "2025-05-24T12:11:27.227649Z",
+    "lead_time": 17.71
+  },
+  {
+    "Source": "Synthetic",
+    "Reviewer": "User085",
+    "ReviewText": "After the ride my back felt fresh—credit goes to the seat’s lumbar profile and massage.",
+    "id": 8351,
+    "label": [
+      {
+        "start": 60,
+        "end": 74,
+        "text": "lumbar profile",
+        "labels": [
+          "lumbar_support"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 86,
+        "text": "massage",
+        "labels": [
+          "seat_message"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 547,
+    "created_at": "2025-05-24T12:22:49.970075Z",
+    "updated_at": "2025-05-24T12:22:49.970075Z",
+    "lead_time": 9.921
+  },
+  {
+    "Source": "TheSmartLocal.com",
+    "Reviewer": "Khoo Yong Hao",
+    "ReviewText": "Each suite is a private haven, enclosed by sliding doors... The star of the suite is undoubtedly the smart recliner chair... fully reclinable to a flat bed... built-in ventilation, warming, and even massage functions... a personal tablet loaded with movies, music, and a live feed of the train’s route... Audio Technica noise-cancelling headphones are provided... a multi-course meal served directly to your suite... The shared bathroom at the end of the carriage felt like it belonged in a high-end hotel, clad in marble and featuring a Japanese-style bidet with seat warming functions... While the KAI Suite Class Compartment doesn’t come cheap... the level of comfort, privacy, and service provided makes it a compelling option for those looking for a premium travel experience on rails.",
+    "id": 8354,
+    "label": [
+      {
+        "start": 107,
+        "end": 115,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 131,
+        "end": 141,
+        "text": "reclinable",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 181,
+        "end": 188,
+        "text": "warming",
+        "labels": [
+          "seat_warmer"
+        ]
+      },
+      {
+        "start": 199,
+        "end": 216,
+        "text": "massage functions",
+        "labels": [
+          "seat_message"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 532,
+    "created_at": "2025-05-24T12:17:43.368199Z",
+    "updated_at": "2025-05-24T12:17:43.368199Z",
+    "lead_time": 36.669
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 4",
+    "ReviewText": "The seats are narrow due to the fixed armrests, and the material is too firm. For the price, I expected better comfort.",
+    "id": 8365,
+    "label": [
+      {
+        "start": 38,
+        "end": 46,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 64,
+        "text": "material",
+        "labels": [
+          "material"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 444,
+    "created_at": "2025-05-24T11:52:58.397847Z",
+    "updated_at": "2025-05-24T11:52:58.397847Z",
+    "lead_time": 16.808
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 10",
+    "ReviewText": "The seat in the Suite Class is okay for sitting and relaxing, but when I tried to sleep, it wasn't very comfortable. It's a bit hard, and the fixed armrests limit the space.",
+    "id": 8371,
+    "label": [
+      {
+        "start": 148,
+        "end": 156,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 445,
+    "created_at": "2025-05-24T11:53:12.280520Z",
+    "updated_at": "2025-05-24T11:53:12.280520Z",
+    "lead_time": 11.578
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 12",
+    "ReviewText": "I didn't like the seats much. They are too firm, and the headrest isn't adjustable. For such an expensive ticket, I expected more comfort.",
+    "id": 8373,
+    "label": [
+      {
+        "start": 57,
+        "end": 65,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 533,
+    "created_at": "2025-05-24T12:17:54.457784Z",
+    "updated_at": "2025-05-24T12:17:54.457784Z",
+    "lead_time": 8.309
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 13",
+    "ReviewText": "The seats are decent. They recline fully, which is good, but they could be more cushioned. The privacy makes up for it, though.",
+    "id": 8374,
+    "label": [
+      {
+        "start": 27,
+        "end": 34,
+        "text": "recline",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 89,
+        "text": "cushioned",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 510,
+    "created_at": "2025-05-24T12:11:38.576690Z",
+    "updated_at": "2025-05-24T12:11:38.576690Z",
+    "lead_time": 9.897
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 15",
+    "ReviewText": "The seats are not bad, but I've had better. The fixed armrests are a bit annoying, and the seat is a little hard. Still, the overall experience was positive.",
+    "id": 8376,
+    "label": [
+      {
+        "start": 54,
+        "end": 62,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 446,
+    "created_at": "2025-05-24T11:53:25.924612Z",
+    "updated_at": "2025-05-24T11:53:25.924612Z",
+    "lead_time": 11.978
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 2",
+    "ReviewText": "I was disappointed with the seat comfort. They’re hard and narrow, with fixed armrests that make sleeping difficult. Even with full reclining, I couldn’t rest well. The privacy is nice, but the seats need improvement.",
+    "id": 8378,
+    "label": [
+      {
+        "start": 78,
+        "end": 86,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 132,
+        "end": 141,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 447,
+    "created_at": "2025-05-24T11:53:42.314729Z",
+    "updated_at": "2025-05-24T11:53:42.314729Z",
+    "lead_time": 15.061
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 4",
+    "ReviewText": "Absolutely loved the Suite Class seats! They’re spacious, with adjustable headrests and footrests. The massage feature was a game-changer for relaxation. I felt pampered throughout the trip.",
+    "id": 8380,
+    "label": [
+      {
+        "start": 74,
+        "end": 83,
+        "text": "headrests",
+        "labels": [
+          "headrest"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 97,
+        "text": "footrests",
+        "labels": [
+          "footrest"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 118,
+        "text": "massage feature",
+        "labels": [
+          "seat_message"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 534,
+    "created_at": "2025-05-24T12:18:14.535388Z",
+    "updated_at": "2025-05-24T12:18:14.535388Z",
+    "lead_time": 18.623
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 6",
+    "ReviewText": "The Suite Class seats are comfortable for sitting but not ideal for sleeping. They’re a bit hard, and the fixed armrests are inconvenient. Still, the privacy and service were excellent.",
+    "id": 8382,
+    "label": [
+      {
+        "start": 112,
+        "end": 120,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 448,
+    "created_at": "2025-05-24T11:53:52.120954Z",
+    "updated_at": "2025-05-24T11:53:52.120954Z",
+    "lead_time": 8.432
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 7",
+    "ReviewText": "I enjoyed the Suite Class Compartment. The seats are plush and recline fully, perfect for resting. The massage function was a nice touch, though the headrest could be more adjustable.",
+    "id": 8383,
+    "label": [
+      {
+        "start": 63,
+        "end": 70,
+        "text": "recline",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 119,
+        "text": "massage function",
+        "labels": [
+          "seat_message"
+        ]
+      },
+      {
+        "start": 149,
+        "end": 157,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 535,
+    "created_at": "2025-05-24T12:18:29.778662Z",
+    "updated_at": "2025-05-24T12:18:29.778662Z",
+    "lead_time": 13.959
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 8",
+    "ReviewText": "The seats were a letdown. They’re too firm, and the fixed armrests make them feel cramped. Reclining didn’t help much for sleeping. The private compartment was the only highlight.",
+    "id": 8384,
+    "label": [
+      {
+        "start": 58,
+        "end": 66,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 100,
+        "text": "Reclining",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 449,
+    "created_at": "2025-05-24T11:54:06.021550Z",
+    "updated_at": "2025-05-24T11:54:06.021550Z",
+    "lead_time": 11.542
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 10",
+    "ReviewText": "I expected more from the Suite Class seats. They’re hard and not great for sleeping, despite reclining fully. The fixed armrests and lack of headrest adjustment were frustrating.",
+    "id": 8386,
+    "label": [
+      {
+        "start": 93,
+        "end": 102,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 120,
+        "end": 128,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 141,
+        "end": 149,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 450,
+    "created_at": "2025-05-24T11:54:24.201950Z",
+    "updated_at": "2025-05-24T11:54:24.201950Z",
+    "lead_time": 16.894
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 14",
+    "ReviewText": "The seats were disappointing for the price. They’re hard and narrow, with fixed armrests that limit movement. Sleeping was uncomfortable, despite the reclining feature.",
+    "id": 8390,
+    "label": [
+      {
+        "start": 80,
+        "end": 88,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 150,
+        "end": 159,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 451,
+    "created_at": "2025-05-24T11:54:42.784632Z",
+    "updated_at": "2025-05-24T11:54:42.784632Z",
+    "lead_time": 16.992
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 15",
+    "ReviewText": "The Suite Class seats are luxurious, with soft cushions and full reclining. The massage function helped me relax, and the private compartment made the journey special.",
+    "id": 8391,
+    "label": [
+      {
+        "start": 47,
+        "end": 55,
+        "text": "cushions",
+        "labels": [
+          "cushion"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 74,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 87,
+        "text": "massage",
+        "labels": [
+          "seat_message"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 511,
+    "created_at": "2025-05-24T12:11:50.886831Z",
+    "updated_at": "2025-05-24T12:11:50.886831Z",
+    "lead_time": 11.102
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 16",
+    "ReviewText": "I had mixed feelings about the Suite Class seats. They’re okay for sitting but too firm for sleeping. The fixed armrests were annoying, but the privacy was a plus.",
+    "id": 8392,
+    "label": [
+      {
+        "start": 112,
+        "end": 120,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 452,
+    "created_at": "2025-05-24T11:55:07.982268Z",
+    "updated_at": "2025-05-24T11:55:07.982268Z",
+    "lead_time": 14.714
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 18",
+    "ReviewText": "The seats didn’t meet my expectations. They’re hard, and the fixed armrests make them feel cramped. Reclining didn’t help much for sleeping. The price doesn’t justify the comfort.",
+    "id": 8394,
+    "label": [
+      {
+        "start": 67,
+        "end": 75,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 109,
+        "text": "Reclining",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 453,
+    "created_at": "2025-05-24T11:55:20.246676Z",
+    "updated_at": "2025-05-24T11:55:20.246676Z",
+    "lead_time": 9.544
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 20",
+    "ReviewText": "The seats were a bit hard, making sleeping difficult. The reclining feature is nice, but the fixed armrests and lack of cushioning were drawbacks. The privacy was great, though.",
+    "id": 8396,
+    "label": [
+      {
+        "start": 58,
+        "end": 67,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 107,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 120,
+        "end": 130,
+        "text": "cushioning",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 454,
+    "created_at": "2025-05-24T11:55:35.176419Z",
+    "updated_at": "2025-05-24T11:55:35.176419Z",
+    "lead_time": 13.553
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 22",
+    "ReviewText": "I was let down by the seat comfort. They’re firm and narrow, with fixed armrests that make sleeping awkward. The private room is nice, but the seats need improvement.",
+    "id": 8398,
+    "label": [
+      {
+        "start": 72,
+        "end": 80,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 455,
+    "created_at": "2025-05-24T11:55:45.147314Z",
+    "updated_at": "2025-05-24T11:55:45.147314Z",
+    "lead_time": 8.511
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 25",
+    "ReviewText": "The seats were not as comfortable as expected. They’re hard, and the fixed armrests limit movement. Sleeping was tough, despite the reclining feature. Not worth the cost.",
+    "id": 8401,
+    "label": [
+      {
+        "start": 75,
+        "end": 83,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 132,
+        "end": 141,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 456,
+    "created_at": "2025-05-24T11:55:57.805145Z",
+    "updated_at": "2025-05-24T11:55:57.805145Z",
+    "lead_time": 11.197
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 26",
+    "ReviewText": "The Suite Class seats are luxurious, with soft cushions and full reclining. The massage function was a nice touch, and the private compartment made it feel exclusive.",
+    "id": 8402,
+    "label": [
+      {
+        "start": 47,
+        "end": 55,
+        "text": "cushions",
+        "labels": [
+          "cushion"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 74,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 87,
+        "text": "massage",
+        "labels": [
+          "seat_message"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 512,
+    "created_at": "2025-05-24T12:12:03.195080Z",
+    "updated_at": "2025-05-24T12:12:03.195080Z",
+    "lead_time": 10.878
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 27",
+    "ReviewText": "The seats were okay but not great. They recline fully, but they’re firm, and the fixed armrests are inconvenient. The privacy and service were the highlights.",
+    "id": 8403,
+    "label": [
+      {
+        "start": 40,
+        "end": 47,
+        "text": "recline",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 95,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 457,
+    "created_at": "2025-05-24T11:56:10.651459Z",
+    "updated_at": "2025-05-24T11:56:10.651459Z",
+    "lead_time": 11.324
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 29",
+    "ReviewText": "The seats were disappointing. They’re hard and narrow, making sleeping uncomfortable. The reclining feature didn’t help much, and the fixed armrests were a hassle.",
+    "id": 8405,
+    "label": [
+      {
+        "start": 90,
+        "end": 99,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 140,
+        "end": 148,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 458,
+    "created_at": "2025-05-24T11:56:31.098803Z",
+    "updated_at": "2025-05-24T11:56:31.098803Z",
+    "lead_time": 17.859
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 31",
+    "ReviewText": "The seats were a bit firm, making sleeping difficult. The reclining feature is good, but the fixed armrests and lack of cushioning were drawbacks. Privacy was great.",
+    "id": 8407,
+    "label": [
+      {
+        "start": 58,
+        "end": 67,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 107,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 120,
+        "end": 130,
+        "text": "cushioning",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 459,
+    "created_at": "2025-05-24T11:56:51.209038Z",
+    "updated_at": "2025-05-24T11:56:51.209038Z",
+    "lead_time": 18.657
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 33",
+    "ReviewText": "I was disappointed with the seat comfort. They’re hard and not supportive for sleeping. The fixed armrests and lack of headrest adjustment were frustrating.",
+    "id": 8409,
+    "label": [
+      {
+        "start": 98,
+        "end": 106,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 127,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 460,
+    "created_at": "2025-05-24T11:57:04.477357Z",
+    "updated_at": "2025-05-24T11:57:04.477357Z",
+    "lead_time": 11.58
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 35",
+    "ReviewText": "The seats were not as comfortable as I hoped. They’re firm, and the fixed armrests make them feel cramped. Sleeping was tough, despite the reclining feature.",
+    "id": 8411,
+    "label": [
+      {
+        "start": 74,
+        "end": 82,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 139,
+        "end": 148,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 461,
+    "created_at": "2025-05-24T11:57:20.334590Z",
+    "updated_at": "2025-05-24T11:57:20.334590Z",
+    "lead_time": 13.267
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 37",
+    "ReviewText": "The seats were a letdown for the price. They’re hard and narrow, with fixed armrests that limit movement. Sleeping was uncomfortable, despite reclining fully.",
+    "id": 8413,
+    "label": [
+      {
+        "start": 76,
+        "end": 84,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 142,
+        "end": 151,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 462,
+    "created_at": "2025-05-24T11:57:35.886199Z",
+    "updated_at": "2025-05-24T11:57:35.886199Z",
+    "lead_time": 14.352
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 39",
+    "ReviewText": "The seats were not great for sleeping. They’re firm, and the fixed armrests make them feel cramped. The reclining feature is nice, but it didn’t help much.",
+    "id": 8415,
+    "label": [
+      {
+        "start": 104,
+        "end": 113,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 75,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 463,
+    "created_at": "2025-05-24T11:57:56.096521Z",
+    "updated_at": "2025-05-24T11:57:56.097530Z",
+    "lead_time": 18.719
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 40",
+    "ReviewText": "The Suite Class seats are luxurious, with soft cushions and full reclining. The massage function was a highlight, and the private compartment added to the experience.",
+    "id": 8416,
+    "label": [
+      {
+        "start": 47,
+        "end": 55,
+        "text": "cushions",
+        "labels": [
+          "cushion"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 74,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 513,
+    "created_at": "2025-05-24T12:12:13.095176Z",
+    "updated_at": "2025-05-24T12:12:13.095176Z",
+    "lead_time": 8.196
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 41",
+    "ReviewText": "The seats were disappointing. They’re hard and not very supportive, making sleeping difficult. The fixed armrests and lack of cushioning were major drawbacks.",
+    "id": 8417,
+    "label": [
+      {
+        "start": 105,
+        "end": 113,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 126,
+        "end": 136,
+        "text": "cushioning",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 464,
+    "created_at": "2025-05-24T11:58:15.075496Z",
+    "updated_at": "2025-05-24T11:58:15.075496Z",
+    "lead_time": 17.689
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 43",
+    "ReviewText": "I was let down by the seat comfort. They’re firm and narrow, with fixed armrests that make sleeping awkward. The private room is nice, but the seats need work.",
+    "id": 8419,
+    "label": [
+      {
+        "start": 72,
+        "end": 80,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 465,
+    "created_at": "2025-05-24T11:58:26.006156Z",
+    "updated_at": "2025-05-24T11:58:26.006156Z",
+    "lead_time": 9.478
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 45",
+    "ReviewText": "The seats were not as comfortable as expected. They’re hard, and the fixed armrests limit movement. Sleeping was tough, despite the reclining feature.",
+    "id": 8421,
+    "label": [
+      {
+        "start": 75,
+        "end": 83,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 132,
+        "end": 141,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 466,
+    "created_at": "2025-05-24T11:58:38.451981Z",
+    "updated_at": "2025-05-24T11:58:38.451981Z",
+    "lead_time": 11.318
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 47",
+    "ReviewText": "The seats were okay but not exceptional. They recline fully, but they’re firm, and the fixed armrests are inconvenient. The privacy and service were great, though.",
+    "id": 8423,
+    "label": [
+      {
+        "start": 46,
+        "end": 53,
+        "text": "recline",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 101,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 467,
+    "created_at": "2025-05-24T11:58:48.653732Z",
+    "updated_at": "2025-05-24T11:58:48.653732Z",
+    "lead_time": 8.811
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 49",
+    "ReviewText": "The seats were disappointing for the price. They’re hard and not supportive for sleeping. The fixed armrests and lack of headrest adjustment were frustrating.",
+    "id": 8425,
+    "label": [
+      {
+        "start": 100,
+        "end": 108,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 121,
+        "end": 129,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 468,
+    "created_at": "2025-05-24T11:58:59.450495Z",
+    "updated_at": "2025-05-24T11:58:59.450495Z",
+    "lead_time": 8.225
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 50",
+    "ReviewText": "The Suite Class seats are luxurious, with soft cushions and adjustable features. I slept well, and the private compartment added to the premium experience.",
+    "id": 8426,
+    "label": [
+      {
+        "start": 47,
+        "end": 55,
+        "text": "cushions",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 514,
+    "created_at": "2025-05-24T12:12:23.078829Z",
+    "updated_at": "2025-05-24T12:12:23.079829Z",
+    "lead_time": 7.245
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 51",
+    "ReviewText": "The seats were a bit firm, making sleeping difficult. The reclining feature is good, but the fixed armrests and lack of cushioning were drawbacks. Privacy was nice.",
+    "id": 8427,
+    "label": [
+      {
+        "start": 58,
+        "end": 67,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 107,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 120,
+        "end": 130,
+        "text": "cushioning",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 469,
+    "created_at": "2025-05-24T11:59:12.982266Z",
+    "updated_at": "2025-05-24T11:59:12.982266Z",
+    "lead_time": 12.058
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 55",
+    "ReviewText": "The seats were not great for sleeping. They’re firm, and the fixed armrests make them feel cramped. The reclining feature is nice, but it didn’t help much.",
+    "id": 8431,
+    "label": [
+      {
+        "start": 67,
+        "end": 75,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 104,
+        "end": 113,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 470,
+    "created_at": "2025-05-24T11:59:24.421958Z",
+    "updated_at": "2025-05-24T11:59:24.422971Z",
+    "lead_time": 9.556
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 57",
+    "ReviewText": "The seats were a letdown. They’re hard and not very supportive, making sleeping difficult. The fixed armrests and lack of cushioning were major drawbacks.",
+    "id": 8433,
+    "label": [
+      {
+        "start": 101,
+        "end": 109,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 122,
+        "end": 132,
+        "text": "cushioning",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 471,
+    "created_at": "2025-05-24T11:59:34.927885Z",
+    "updated_at": "2025-05-24T11:59:34.927885Z",
+    "lead_time": 9.112
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 59",
+    "ReviewText": "The seats were disappointing. They’re firm and narrow, with fixed armrests that limit movement. Sleeping was tough, despite the reclining feature.",
+    "id": 8435,
+    "label": [
+      {
+        "start": 66,
+        "end": 74,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 128,
+        "end": 137,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 472,
+    "created_at": "2025-05-24T11:59:46.375894Z",
+    "updated_at": "2025-05-24T11:59:46.375894Z",
+    "lead_time": 9.92
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 60",
+    "ReviewText": "The Suite Class seats are luxurious, with soft cushions and full reclining. The massage function helped me relax, and the private compartment was a treat.",
+    "id": 8436,
+    "label": [
+      {
+        "start": 47,
+        "end": 55,
+        "text": "cushions",
+        "labels": [
+          "cushion"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 74,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 515,
+    "created_at": "2025-05-24T12:12:34.765791Z",
+    "updated_at": "2025-05-24T12:12:34.765791Z",
+    "lead_time": 9.86
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 61",
+    "ReviewText": "The seats were not as comfortable as I hoped. They’re hard, and the fixed armrests make them feel cramped. Sleeping was difficult, despite the reclining feature.",
+    "id": 8437,
+    "label": [
+      {
+        "start": 74,
+        "end": 82,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 143,
+        "end": 152,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 473,
+    "created_at": "2025-05-24T11:59:59.779956Z",
+    "updated_at": "2025-05-24T11:59:59.779956Z",
+    "lead_time": 11.794
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 63",
+    "ReviewText": "The seats were okay but not exceptional. They recline fully, but they’re firm, and the fixed armrests are inconvenient. The privacy and service were great, though.",
+    "id": 8439,
+    "label": [
+      {
+        "start": 46,
+        "end": 53,
+        "text": "recline",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 101,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 474,
+    "created_at": "2025-05-24T12:00:11.602038Z",
+    "updated_at": "2025-05-24T12:00:11.602038Z",
+    "lead_time": 9.611
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 65",
+    "ReviewText": "The seats were disappointing for the price. They’re hard and not supportive for sleeping. The fixed armrests and lack of headrest adjustment were frustrating.",
+    "id": 8441,
+    "label": [
+      {
+        "start": 100,
+        "end": 108,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 121,
+        "end": 129,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 475,
+    "created_at": "2025-05-24T12:00:24.398931Z",
+    "updated_at": "2025-05-24T12:00:24.398931Z",
+    "lead_time": 9.8
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 67",
+    "ReviewText": "The seats were not great for sleeping. They’re firm, and the fixed armrests make them feel cramped. The reclining feature is nice, but it didn’t help much.",
+    "id": 8443,
+    "label": [
+      {
+        "start": 67,
+        "end": 75,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 104,
+        "end": 113,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 476,
+    "created_at": "2025-05-24T12:00:38.095996Z",
+    "updated_at": "2025-05-24T12:00:38.095996Z",
+    "lead_time": 12.291
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 69",
+    "ReviewText": "The seats were a letdown. They’re hard and not very supportive, making sleeping difficult. The fixed armrests and lack of cushioning were major drawbacks.",
+    "id": 8445,
+    "label": [
+      {
+        "start": 101,
+        "end": 109,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 122,
+        "end": 132,
+        "text": "cushioning",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 477,
+    "created_at": "2025-05-24T12:00:48.011038Z",
+    "updated_at": "2025-05-24T12:00:48.011038Z",
+    "lead_time": 8.255
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 71",
+    "ReviewText": "The seats were disappointing. They’re firm and narrow, with fixed armrests that limit movement. Sleeping was tough, despite the reclining feature.",
+    "id": 8447,
+    "label": [
+      {
+        "start": 66,
+        "end": 74,
+        "text": "armrests",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 128,
+        "end": 137,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 478,
+    "created_at": "2025-05-24T12:00:58.833819Z",
+    "updated_at": "2025-05-24T12:00:58.833819Z",
+    "lead_time": 9.524
+  },
+  {
+    "Source": "Artificial",
+    "Reviewer": "User 72",
+    "ReviewText": "The Suite Class seats are luxurious, with soft cushions and full reclining. The massage function helped me relax, and the private compartment was a treat.",
+    "id": 8448,
+    "label": [
+      {
+        "start": 47,
+        "end": 55,
+        "text": "cushions",
+        "labels": [
+          "cushion"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 74,
+        "text": "reclining",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 96,
+        "text": "massage function",
+        "labels": [
+          "seat_message"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 516,
+    "created_at": "2025-05-24T12:12:52.413793Z",
+    "updated_at": "2025-05-24T12:12:52.413793Z",
+    "lead_time": 16.228
+  },
+  {
+    "Source": "Blog",
+    "Reviewer": "JakartaJourneyMan",
+    "ReviewText": "My detailed take on the KAI Suite Class: The seat is the star. 180-degree recline is flawless. The 'premium deer skin' [1] is as soft as advertised. Heating and ventilation worked perfectly. Massage was decent, good for a long trip. Control panel on the armrest [2, 3, 4] is sleek and responsive. Rotation is a gimmick I didn't use much, but the privacy is unmatched. A solid A-.",
+    "id": 8463,
+    "label": [
+      {
+        "start": 74,
+        "end": 81,
+        "text": "recline",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 191,
+        "end": 198,
+        "text": "Massage",
+        "labels": [
+          "seat_message"
+        ]
+      },
+      {
+        "start": 254,
+        "end": 261,
+        "text": "armrest",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 117,
+        "text": "premium deer skin",
+        "labels": [
+          "material"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 481,
+    "created_at": "2025-05-24T12:02:25.283538Z",
+    "updated_at": "2025-05-24T12:02:25.283538Z",
+    "lead_time": 44.531
+  },
+  {
+    "Source": "Forum",
+    "Reviewer": "TrainSpotterID",
+    "ReviewText": "Finally got to experience the Suite Class. The seat is incredibly comfortable, especially when fully reclined. The 'premium deer skin' lives up to the hype. Massage and heating functions are welcome additions. Controls are intuitive. My only suggestion would be slightly more padding on the headrest for taller individuals. Otherwise, a stellar offering from KAI.",
+    "id": 8469,
+    "label": [
+      {
+        "start": 101,
+        "end": 109,
+        "text": "reclined",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 116,
+        "end": 133,
+        "text": "premium deer skin",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 157,
+        "end": 164,
+        "text": "Massage",
+        "labels": [
+          "seat_message"
+        ]
+      },
+      {
+        "start": 169,
+        "end": 176,
+        "text": "heating",
+        "labels": [
+          "seat_warmer"
+        ]
+      },
+      {
+        "start": 276,
+        "end": 283,
+        "text": "padding",
+        "labels": [
+          "cushion"
+        ]
+      },
+      {
+        "start": 291,
+        "end": 299,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 536,
+    "created_at": "2025-05-24T12:18:59.633743Z",
+    "updated_at": "2025-05-24T12:18:59.633743Z",
+    "lead_time": 26.707
+  },
+  {
+    "Source": "IndoJourney Times",
+    "Reviewer": "Budi Santoso",
+    "ReviewText": "I tried the Suite Class on KA Bima, and the seat was incredibly comfortable with all the adjustments—headrest, leg rest, even temperature control! The private compartment is a huge plus. However, the seat felt a bit narrow for sleeping, and I could hear some wheel noise in Suite 2B.",
+    "id": 8584,
+    "label": [
+      {
+        "start": 101,
+        "end": 109,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      },
+      {
+        "start": 111,
+        "end": 119,
+        "text": "leg rest",
+        "labels": [
+          "footrest"
+        ]
+      },
+      {
+        "start": 126,
+        "end": 145,
+        "text": "temperature control",
+        "labels": [
+          "seat_warmer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 537,
+    "created_at": "2025-05-24T12:19:23.692190Z",
+    "updated_at": "2025-05-24T12:19:23.692190Z",
+    "lead_time": 20.308
+  },
+  {
+    "Source": "TravelBit",
+    "Reviewer": "Aldi Pratama",
+    "ReviewText": "The Suite Class seat’s plush leather material is so luxurious, and the 180-degree recliner feels like a bed. The adjustable headrest was perfect for my Jakarta-Yogyakarta trip, but the seat felt a bit firm for long-term comfort.",
+    "id": 8734,
+    "label": [
+      {
+        "start": 29,
+        "end": 45,
+        "text": "leather material",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 90,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 124,
+        "end": 132,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 538,
+    "created_at": "2025-05-24T12:19:47.411484Z",
+    "updated_at": "2025-05-24T12:19:47.412485Z",
+    "lead_time": 21.197
+  },
+  {
+    "Source": "X Post",
+    "Reviewer": "@KeretaKeren",
+    "ReviewText": "Wow, the Suite Class seat’s leather is super soft, and the recliner goes full 180! The massage feature is dope, but the armrest could be wider. #KAISuite",
+    "id": 8735,
+    "label": [
+      {
+        "start": 59,
+        "end": 67,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 120,
+        "end": 127,
+        "text": "armrest",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 480,
+    "created_at": "2025-05-24T12:01:39.217452Z",
+    "updated_at": "2025-05-24T12:01:39.218453Z",
+    "lead_time": 17.326
+  },
+  {
+    "Source": "IndoRail Chronicles",
+    "Reviewer": "Dina Sari",
+    "ReviewText": "The seat’s plush leather and adjustable headrest made my Surabaya trip comfy. The massage function is a game-changer, but the recliner’s firmness was noticeable overnight.",
+    "id": 8736,
+    "label": [
+      {
+        "start": 17,
+        "end": 24,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 48,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 98,
+        "text": "massage function",
+        "labels": [
+          "seat_message"
+        ]
+      },
+      {
+        "start": 126,
+        "end": 136,
+        "text": "recliner’s",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 539,
+    "created_at": "2025-05-24T12:20:07.737375Z",
+    "updated_at": "2025-05-24T12:20:07.738374Z",
+    "lead_time": 18.967
+  },
+  {
+    "Source": "JourneyJurnal",
+    "Reviewer": "Rahmat Hidayat",
+    "ReviewText": "The Suite Class seat’s 180-degree recliner and leather material are top-notch. The adjustable armrest was a nice touch, but the seat’s too firm for sleeping.",
+    "id": 8737,
+    "label": [
+      {
+        "start": 34,
+        "end": 42,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 63,
+        "text": "leather material",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 101,
+        "text": "armrest",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 479,
+    "created_at": "2025-05-24T12:01:20.100597Z",
+    "updated_at": "2025-05-24T12:01:20.101599Z",
+    "lead_time": 18.597
+  },
+  {
+    "Source": "X Post",
+    "Reviewer": "@TravelWithTika",
+    "ReviewText": "Suite Class seat is fire! The recliner goes flat, and the leather feels premium. The headrest adjusts perfectly, but it’s a bit hard for long trips. #TrainLife",
+    "id": 8738,
+    "label": [
+      {
+        "start": 30,
+        "end": 38,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 65,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 93,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 540,
+    "created_at": "2025-05-24T12:20:24.352013Z",
+    "updated_at": "2025-05-24T12:20:24.352013Z",
+    "lead_time": 14.748
+  },
+  {
+    "Source": "WanderFree Blog",
+    "Reviewer": "Lisa Amalia",
+    "ReviewText": "The Suite Class seat’s plush leather and 180-degree recliner were fantastic. The adjustable headrest added comfort, but the seat felt too firm for overnight.",
+    "id": 8739,
+    "label": [
+      {
+        "start": 29,
+        "end": 36,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 60,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 100,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 541,
+    "created_at": "2025-05-24T12:20:37.811829Z",
+    "updated_at": "2025-05-24T12:20:37.811829Z",
+    "lead_time": 11.815
+  },
+  {
+    "Source": "MetroVibes News",
+    "Reviewer": "Fajar Nugroho",
+    "ReviewText": "KAI’s Suite Class seat has luxurious leather material and a recliner that goes fully flat. The armrest adjusts well, but the seat’s firmness could be improved.",
+    "id": 8740,
+    "label": [
+      {
+        "start": 37,
+        "end": 53,
+        "text": "leather material",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 68,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 102,
+        "text": "armrest",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 482,
+    "created_at": "2025-05-24T12:02:52.894185Z",
+    "updated_at": "2025-05-24T12:03:03.363655Z",
+    "lead_time": 31.947000000000003
+  },
+  {
+    "Source": "X Post",
+    "Reviewer": "@JogjaJalan",
+    "ReviewText": "The Suite Class seat’s leather is so comfy, and the recliner is smooth! The headrest is adjustable, but it’s a bit hard for sleeping. #SuiteClass",
+    "id": 8741,
+    "label": [
+      {
+        "start": 52,
+        "end": 60,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 84,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 30,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 542,
+    "created_at": "2025-05-24T12:20:54.647376Z",
+    "updated_at": "2025-05-24T12:20:54.647376Z",
+    "lead_time": 15.05
+  },
+  {
+    "Source": "RailRiser",
+    "Reviewer": "Tania Putri",
+    "ReviewText": "The Suite Class seat’s 180-degree recliner and plush leather were amazing. The adjustable armrest was great, but the seat’s firmness made sleeping tricky.",
+    "id": 8742,
+    "label": [
+      {
+        "start": 34,
+        "end": 42,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 60,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 97,
+        "text": "armrest",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 483,
+    "created_at": "2025-05-24T12:03:21.272621Z",
+    "updated_at": "2025-05-24T12:03:21.272621Z",
+    "lead_time": 16.632
+  },
+  {
+    "Source": "X Post",
+    "Reviewer": "@RodaKereta",
+    "ReviewText": "Suite Class seat is luxe—soft leather, full recliner, massage! The headrest is perfect, but the seat’s too firm for overnight. #KAITravel",
+    "id": 8743,
+    "label": [
+      {
+        "start": 30,
+        "end": 37,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 52,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 61,
+        "text": "massage",
+        "labels": [
+          "seat_message"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 75,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 543,
+    "created_at": "2025-05-24T12:21:07.815003Z",
+    "updated_at": "2025-05-24T12:21:07.815003Z",
+    "lead_time": 11.224
+  },
+  {
+    "Source": "IndoTravel Hub",
+    "Reviewer": "Sandi Wijaya",
+    "ReviewText": "The seat’s leather material and adjustable headrest were highlights. The 180-degree recliner was comfy, but the seat felt narrow for sleeping.",
+    "id": 8744,
+    "label": [
+      {
+        "start": 11,
+        "end": 27,
+        "text": "leather material",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 51,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 92,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 544,
+    "created_at": "2025-05-24T12:21:37.685017Z",
+    "updated_at": "2025-05-24T12:21:37.685017Z",
+    "lead_time": 28.006
+  },
+  {
+    "Source": "TravelTales",
+    "Reviewer": "Lina Hartono",
+    "ReviewText": "The Suite Class seat’s plush leather and 180-degree recliner were luxurious. The adjustable armrest was a nice touch, but the seat was a bit hard.",
+    "id": 8745,
+    "label": [
+      {
+        "start": 52,
+        "end": 60,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 99,
+        "text": "armrest",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 484,
+    "created_at": "2025-05-24T12:03:34.663708Z",
+    "updated_at": "2025-05-24T12:03:34.663708Z",
+    "lead_time": 8.732
+  },
+  {
+    "Source": "X Post",
+    "Reviewer": "@NaikKereta",
+    "ReviewText": "Suite Class seat is dope—premium leather, full recliner, massage! The headrest adjusts well, but it’s not soft enough for sleeping. #SuiteClass",
+    "id": 8746,
+    "label": [
+      {
+        "start": 33,
+        "end": 40,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 55,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 64,
+        "text": "massage",
+        "labels": [
+          "seat_message"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 78,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 545,
+    "created_at": "2025-05-24T12:21:51.115537Z",
+    "updated_at": "2025-05-24T12:21:51.115537Z",
+    "lead_time": 11.551
+  },
+  {
+    "Source": "ExploreID Blog",
+    "Reviewer": "Yudi Santoso",
+    "ReviewText": "The Suite Class seat’s leather material and 180-degree recliner were fantastic. The adjustable headrest was comfy, but the seat’s firmness was a drawback.",
+    "id": 8747,
+    "label": [
+      {
+        "start": 95,
+        "end": 103,
+        "text": "headrest",
+        "labels": [
+          "headrest"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 63,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "text": "material",
+        "labels": [
+          "material"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 546,
+    "created_at": "2025-05-24T12:22:07.565423Z",
+    "updated_at": "2025-05-24T12:22:07.566443Z",
+    "lead_time": 14.682
+  },
+  {
+    "Source": "X Post",
+    "Reviewer": "@KeretaMewah",
+    "ReviewText": "Loved the Suite Class seat—soft leather, smooth recliner, massage! The armrest could be wider, though. #TrainLuxury",
+    "id": 8748,
+    "label": [
+      {
+        "start": 48,
+        "end": 56,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 65,
+        "text": "massage",
+        "labels": [
+          "seat_message"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 78,
+        "text": "armrest",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 485,
+    "created_at": "2025-05-24T12:03:47.711157Z",
+    "updated_at": "2025-05-24T12:03:47.711157Z",
+    "lead_time": 11.466
+  },
+  {
+    "Source": "TravelQuest",
+    "Reviewer": "Ari Wibowo",
+    "ReviewText": "The Suite Class seat’s 180-degree recliner and plush leather were perfect. The adjustable armrest was nice, but the seat felt firm for long trips.",
+    "id": 8751,
+    "label": [
+      {
+        "start": 53,
+        "end": 60,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 97,
+        "text": "armrest",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 486,
+    "created_at": "2025-05-24T12:04:07.272806Z",
+    "updated_at": "2025-05-24T12:04:07.272806Z",
+    "lead_time": 11.146
+  },
+  {
+    "Source": "RailRaves Blog",
+    "Reviewer": "Hendro Susilo",
+    "ReviewText": "The Suite Class seat’s plush leather and 180-degree recliner were fantastic. The adjustable armrest added comfort, but the seat was too firm.",
+    "id": 8754,
+    "label": [
+      {
+        "start": 29,
+        "end": 36,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 60,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 99,
+        "text": "armrest",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 487,
+    "created_at": "2025-05-24T12:04:19.442226Z",
+    "updated_at": "2025-05-24T12:04:19.442226Z",
+    "lead_time": 10.931
+  },
+  {
+    "Source": "X Post",
+    "Reviewer": "@TripSeru",
+    "ReviewText": "Suite Class seat is fancy—soft leather, full recliner! The armrest is adjustable, but it’s too hard for long trips. #KAITravel",
+    "id": 8757,
+    "label": [
+      {
+        "start": 31,
+        "end": 38,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 53,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 66,
+        "text": "armrest",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 488,
+    "created_at": "2025-05-24T12:04:31.679104Z",
+    "updated_at": "2025-05-24T12:04:31.680072Z",
+    "lead_time": 10.695
+  },
+  {
+    "Source": "IndoRail Tales",
+    "Reviewer": "Nita Sari",
+    "ReviewText": "The Suite Class seat’s leather material and 180-degree recliner were great. The adjustable armrest was nice, but the seat felt firm.",
+    "id": 8760,
+    "label": [
+      {
+        "start": 23,
+        "end": 30,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 98,
+        "text": "armrest",
+        "labels": [
+          "armrest"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 63,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 489,
+    "created_at": "2025-05-24T12:04:45.619837Z",
+    "updated_at": "2025-05-24T12:04:45.619837Z",
+    "lead_time": 12.294
+  },
+  {
+    "Source": "X Post",
+    "Reviewer": "@TravelMania",
+    "ReviewText": "Loved the Suite Class seat—leather, recliner, massage! The armrest could be wider, though. #KAISuite",
+    "id": 8763,
+    "label": [
+      {
+        "start": 27,
+        "end": 34,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 44,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 53,
+        "text": "massage",
+        "labels": [
+          "seat_message"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 490,
+    "created_at": "2025-05-24T12:05:02.840943Z",
+    "updated_at": "2025-05-24T12:05:02.840943Z",
+    "lead_time": 14.606
+  },
+  {
+    "Source": "TravelTrend News",
+    "Reviewer": "Rudi Hartono",
+    "ReviewText": "KAI’s Suite Class seat has plush leather and a 180-degree recliner. The adjustable armrest is nice, but the seat’s firmness is an issue.",
+    "id": 8766,
+    "label": [
+      {
+        "start": 33,
+        "end": 40,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 66,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 90,
+        "text": "armrest",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 491,
+    "created_at": "2025-05-24T12:05:14.324308Z",
+    "updated_at": "2025-05-24T12:05:14.324308Z",
+    "lead_time": 9.689
+  },
+  {
+    "Source": "RailQuest",
+    "Reviewer": "Dedi Pratama",
+    "ReviewText": "The Suite Class seat’s plush leather and 180-degree recliner were fantastic. The adjustable armrest was nice, but the seat felt narrow.",
+    "id": 8770,
+    "label": [
+      {
+        "start": 52,
+        "end": 60,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 99,
+        "text": "armrest",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 492,
+    "created_at": "2025-05-24T12:05:23.650810Z",
+    "updated_at": "2025-05-24T12:05:30.873891Z",
+    "lead_time": 14.151
+  },
+  {
+    "Source": "X Post",
+    "Reviewer": "@KeretaMewahID",
+    "ReviewText": "Loved the Suite Class seat—soft leather, full recliner! The armrest could be wider, though. #SuiteClass",
+    "id": 8773,
+    "label": [
+      {
+        "start": 46,
+        "end": 54,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 67,
+        "text": "armrest",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 493,
+    "created_at": "2025-05-24T12:05:45.437654Z",
+    "updated_at": "2025-05-24T12:05:45.437654Z",
+    "lead_time": 13.021
+  },
+  {
+    "Source": "IndoRails",
+    "Reviewer": "Lina Susanti",
+    "ReviewText": "The Suite Class seat’s 180-degree recliner and leather material were great. The adjustable armrest was nice, but the seat felt firm.",
+    "id": 8776,
+    "label": [
+      {
+        "start": 34,
+        "end": 42,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 54,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 98,
+        "text": "armrest",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 494,
+    "created_at": "2025-05-24T12:05:58.638193Z",
+    "updated_at": "2025-05-24T12:05:58.639192Z",
+    "lead_time": 11.478
+  },
+  {
+    "Source": "RailRider News",
+    "Reviewer": "Siti Nurhaliza",
+    "ReviewText": "KAI’s Suite Class seat has plush leather and a 180-degree recliner. The adjustable armrest is nice, but the seat’s firmness is an issue.",
+    "id": 8780,
+    "label": [
+      {
+        "start": 33,
+        "end": 40,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 66,
+        "text": "recliner",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 90,
+        "text": "armrest",
+        "labels": [
+          "armrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 495,
+    "created_at": "2025-05-24T12:06:14.252549Z",
+    "updated_at": "2025-05-24T12:06:14.252549Z",
+    "lead_time": 13.935
+  },
+  {
+    "Source": "Blog",
+    "Reviewer": "LuxuryOnRailsReviewer",
+    "ReviewText": "While the seat boasts premium materials and a near-flat recline, I found the cushioning a bit too firm for my liking, especially when trying to sleep on my side. The massage function was a nice gimmick, but not a deep relaxation tool.",
+    "id": 8825,
+    "label": [
+      {
+        "start": 30,
+        "end": 39,
+        "text": "materials",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 63,
+        "text": "recline",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 87,
+        "text": "cushioning",
+        "labels": [
+          "cushion"
+        ]
+      },
+      {
+        "start": 166,
+        "end": 182,
+        "text": "massage function",
+        "labels": [
+          "seat_message"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 517,
+    "created_at": "2025-05-24T12:13:16.092023Z",
+    "updated_at": "2025-05-24T12:13:16.092023Z",
+    "lead_time": 22.161
+  },
+  {
+    "Source": "Blog",
+    "Reviewer": "ComfortSeekerChronicles",
+    "ReviewText": "I'm very sensitive to seat comfort, and this one passed the test for a 7-hour journey. The lumbar support was adequate when upright, and the recline was smooth. The firmness for sleeping is a valid point, though.",
+    "id": 8845,
+    "label": [
+      {
+        "start": 91,
+        "end": 105,
+        "text": "lumbar support",
+        "labels": [
+          "lumbar_support"
+        ]
+      },
+      {
+        "start": 141,
+        "end": 148,
+        "text": "recline",
+        "labels": [
+          "recliner"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 548,
+    "created_at": "2025-05-24T12:23:02.884211Z",
+    "updated_at": "2025-05-24T12:23:02.884211Z",
+    "lead_time": 11.702
+  },
+  {
+    "Source": "TikTok",
+    "Reviewer": "TrainTravelTips",
+    "ReviewText": "Pro-tip: If you like a softer sleep, bring a thin mattress topper. The seat is great, but that extra cushioning would make it perfect for overnight. Otherwise, fantastic product by KAI!",
+    "id": 8853,
+    "label": [
+      {
+        "start": 101,
+        "end": 111,
+        "text": "cushioning",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 518,
+    "created_at": "2025-05-24T12:13:29.813553Z",
+    "updated_at": "2025-05-24T12:13:29.813553Z",
+    "lead_time": 12.224
+  },
+  {
+    "Source": "YouTube",
+    "Reviewer": "RailReviewChannel",
+    "ReviewText": "The KAI Suite Class seat offers a fantastic recline, practically flat, which is a huge win for train travel. However, the cushioning, while supportive for sitting, became quite firm during a long overnight journey, making sleep a bit challenging for me.",
+    "id": 8894,
+    "label": [
+      {
+        "start": 44,
+        "end": 51,
+        "text": "recline",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 122,
+        "end": 132,
+        "text": "cushioning",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 519,
+    "created_at": "2025-05-24T12:13:43.942993Z",
+    "updated_at": "2025-05-24T12:13:43.943994Z",
+    "lead_time": 12.795
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "Anonymous",
+    "ReviewText": "I actually slept very well! The trick for me was using the provided blanket to add a bit of extra cushioning under my hips when lying flat. The cabin was dark and quiet, which helped immensely.",
+    "id": 8911,
+    "label": [
+      {
+        "start": 98,
+        "end": 108,
+        "text": "cushioning",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 520,
+    "created_at": "2025-05-24T12:13:53.677798Z",
+    "updated_at": "2025-05-24T12:13:53.677798Z",
+    "lead_time": 7.675
+  },
+  {
+    "Source": "TikTok",
+    "Reviewer": "TrainComfortTips",
+    "ReviewText": "Pro-tip for side sleepers in the Suite Class: the provided pillow is a bit small. Bring a good travel neck pillow or a small cushion. The seat itself is fantastic, but that extra bit helps for side sleeping.",
+    "id": 8923,
+    "label": [
+      {
+        "start": 125,
+        "end": 132,
+        "text": "cushion",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 521,
+    "created_at": "2025-05-24T12:14:11.181886Z",
+    "updated_at": "2025-05-24T12:14:11.181886Z",
+    "lead_time": 15.694
+  },
+  {
+    "Source": "YouTube",
+    "Reviewer": "RailNerdID",
+    "ReviewText": "The leather seat reclines fully flat and the head-rest is plush, but I still found the cushion a bit firm for true overnight sleep.",
+    "id": 9114,
+    "label": [
+      {
+        "start": 4,
+        "end": 11,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 25,
+        "text": "reclines",
+        "labels": [
+          "recliner"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 94,
+        "text": "cushion",
+        "labels": [
+          "cushion"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 54,
+        "text": "head-rest",
+        "labels": [
+          "headrest"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 522,
+    "created_at": "2025-05-24T12:14:27.231400Z",
+    "updated_at": "2025-05-24T12:14:27.231400Z",
+    "lead_time": 13.599
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "KintanJ",
+    "ReviewText": "Back-rest adjusts smoothly, and the lumbar massage kept me from getting stiff. Pricey, but wow.",
+    "id": 9121,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "Back-rest",
+        "labels": [
+          "backrest"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 50,
+        "text": "lumbar massage",
+        "labels": [
+          "seat_message"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 549,
+    "created_at": "2025-05-24T12:23:11.979174Z",
+    "updated_at": "2025-05-24T12:23:11.979174Z",
+    "lead_time": 7.941
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "SiskaRail",
+    "ReviewText": "The adjustable lumbar pad inside the back-rest is a small piece of genius.",
+    "id": 9184,
+    "label": [
+      {
+        "start": 15,
+        "end": 25,
+        "text": "lumbar pad",
+        "labels": [
+          "lumbar_support"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 550,
+    "created_at": "2025-05-24T12:23:28.652853Z",
+    "updated_at": "2025-05-24T12:23:28.652853Z",
+    "lead_time": 12.032
+  },
+  {
+    "Source": "TikTok",
+    "Reviewer": "@railroamer",
+    "ReviewText": "Fixed head-rest tough for kids; booster cushion would help families.",
+    "id": 9215,
+    "label": [
+      {
+        "start": 6,
+        "end": 15,
+        "text": "head-rest",
+        "labels": [
+          "headrest"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 47,
+        "text": "cushion",
+        "labels": [
+          "cushion"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 523,
+    "created_at": "2025-05-24T12:14:36.330398Z",
+    "updated_at": "2025-05-24T12:14:36.331388Z",
+    "lead_time": 7.841
+  },
+  {
+    "Source": "Traveloka",
+    "Reviewer": "IkaInsight",
+    "ReviewText": "Lumbar section of back-rest curves perfectly—no pillow needed.",
+    "id": 9265,
+    "label": [
+      {
+        "start": 18,
+        "end": 27,
+        "text": "back-rest",
+        "labels": [
+          "backrest"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 6,
+        "text": "Lumbar",
+        "labels": [
+          "lumbar_support"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 551,
+    "created_at": "2025-05-24T12:23:40.109847Z",
+    "updated_at": "2025-05-24T12:23:40.109847Z",
+    "lead_time": 10.144
+  },
+  {
+    "Source": "Instagram",
+    "Reviewer": "@railpad",
+    "ReviewText": "Cushion breathes through perforated leather—no sticky feel after nap.",
+    "id": 9270,
+    "label": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "Cushion",
+        "labels": [
+          "cushion"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 43,
+        "text": "leather",
+        "labels": [
+          "material"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 524,
+    "created_at": "2025-05-24T12:14:48.827354Z",
+    "updated_at": "2025-05-24T12:14:48.827354Z",
+    "lead_time": 11.109
+  }
+]
