@@ -92,10 +92,26 @@ class PerfectScoreRegularizer:
                 "The cushion could use slightly better contouring"
             ],
             "MATERIAL": [
-                "The material quality is good but shows minor wear",
-                "The material texture could be slightly smoother",
-                "The material color coordination could be improved",
-                "The material feels authentic but has some inconsistencies"
+                "The {entity} feels premium and luxurious",
+                "The {entity} quality is excellent and durable",
+                "The {entity} has a soft and comfortable texture",
+                "The {entity} is made from high-grade material",
+                "The {entity} feels breathable and not sticky",
+                "The {entity} has beautiful stitching and finish",
+                "The {entity} maintains its appearance over time",
+                "The {entity} is easy to clean and maintain",
+                "The {entity} color matches the interior perfectly",
+                "The {entity} has a sophisticated and elegant look",
+                "The {entity} feels authentic and well-crafted",
+                "The {entity} doesn't show wear easily",
+                "The {entity} has excellent resistance to stains",
+                "The {entity} provides good grip and doesn't slide",
+                "The {entity} has premium quality",
+                "The {entity} feels cheap and synthetic",
+                "The {entity} is rough and uncomfortable to touch",
+                "The {entity} shows wear and tear too quickly",
+                "The {entity} has poor stitching that's coming apart",
+                "The {entity} stains easily and is hard to clean"
             ],
             "LUMBAR_SUPPORT": [
                 "The lumbar support position could be more precise",
@@ -341,26 +357,26 @@ class FinalPushAugmenter:
                 "The {entity} is dirty and hasn't been cleaned"
             ],
             "MATERIAL": [
-                "The seat {entity} feels premium and luxurious",
-                "The {entity} quality is excellent and durable",
-                "The {entity} has a soft and comfortable texture",
-                "The {entity} is made from high-grade leather",
-                "The {entity} feels breathable and not sticky",
-                "The {entity} has beautiful stitching and finish",
-                "The {entity} maintains its appearance over time",
-                "The {entity} is easy to clean and maintain",
-                "The {entity} color matches the interior perfectly",
-                "The {entity} has a sophisticated and elegant look",
-                "The {entity} feels authentic and well-crafted",
-                "The {entity} doesn't show wear easily",
-                "The {entity} has excellent resistance to stains",
-                "The {entity} provides good grip and doesn't slide",
-                "The {entity} has premium leather smell",
-                "The {entity} feels cheap and synthetic",
-                "The {entity} is rough and uncomfortable to touch",
-                "The {entity} shows wear and tear too quickly",
-                "The {entity} has poor stitching that's coming apart",
-                "The {entity} stains easily and is hard to clean"
+                "The {entity} feels premium and luxurious",
+                "The leather quality is excellent and durable",
+                "The leather has a soft and comfortable texture",
+                "The leather is made from high-grade material",
+                "The leather feels breathable and not sticky",
+                "The leather has beautiful stitching and finish",
+                "The leather maintains its appearance over time",
+                "The leather is easy to clean and maintain",
+                "The fabric color matches the interior perfectly",
+                "The fabric has a sophisticated and elegant look",
+                "The fabric feels authentic and well-crafted",
+                "The material doesn't show wear easily",
+                "The material has excellent resistance to stains",
+                "The upholstery provides good grip and doesn't slide",
+                "The upholstery has premium quality",
+                "The vinyl feels cheap and synthetic",
+                "The fabric is rough and uncomfortable to touch",
+                "The material shows wear and tear too quickly",
+                "The upholstery has poor stitching that's coming apart",
+                "The material stains easily and is hard to clean"
             ],
             "SEAT_MESSAGE": [
                 "The {entity} function provides excellent relaxation",
@@ -395,7 +411,9 @@ class FinalPushAugmenter:
         entity_terms = self.seat_synonyms.get(entity_type, [entity_type.lower()])
         templates = self.critical_templates.get(entity_type, [])
         
-        for _ in range(count):
+        failed_count = 0
+        
+        for i in range(count):
             entity_term = random.choice(entity_terms)
             template = random.choice(templates)
             
@@ -407,18 +425,28 @@ class FinalPushAugmenter:
             endings = ["", ".", " overall.", " for sure.", " in my opinion."]
             
             if random.random() < 0.3:
-                text = random.choice(starters) + text.lower()
+                starter = random.choice(starters)
+                if starter:
+                    text = starter + text.lower()
             if random.random() < 0.3:
                 text += random.choice(endings)
             
-            # Find entity position
+            # Find entity position in the final text
             start_pos = text.lower().find(entity_term.lower())
             if start_pos == -1:
+                failed_count += 1
+                if entity_type == "MATERIAL" and failed_count < 5:  # Debug first few failures
+                    print(f"DEBUG: Failed to find '{entity_term}' in '{text}'")
                 continue
             end_pos = start_pos + len(entity_term)
             
             entities = [(start_pos, end_pos, entity_type)]
             synthetic_examples.append((text, {"entities": entities}))
+        
+        if entity_type == "MATERIAL":
+            print(f"DEBUG MATERIAL: Generated {len(synthetic_examples)} examples, failed {failed_count} times")
+            if synthetic_examples:
+                print(f"Sample MATERIAL example: '{synthetic_examples[0][0]}'")
         
         return synthetic_examples
 
@@ -1932,7 +1960,13 @@ def run_complete_analytics_training(
     
     # Generate critical examples
     for entity in augmenter.critical_entities.keys():
-        critical_examples = augmenter.generate_critical_examples(entity, 150)  # 150 per critical entity
+        # Adjust count based on entity to maintain balance
+        if entity == "MATERIAL":
+            count = 80  # Reduced for better real/synthetic balance
+        else:
+            count = 150  # Default for other critical entities
+        
+        critical_examples = augmenter.generate_critical_examples(entity, count)
         base_training_data.extend(critical_examples)
         synthetic_count += len(critical_examples)
         print(f"🚨 Generated {len(critical_examples)} critical examples for {entity}")
