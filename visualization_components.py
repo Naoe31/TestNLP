@@ -14,7 +14,7 @@ import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
 from datetime import datetime
 
-plt.style.use('seaborn-v0_8')
+plt.style.use('seaborn')
 
 class LDAAnalyzer:
     """Handles LDA topic modeling analysis"""
