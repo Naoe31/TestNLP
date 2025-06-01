@@ -13,6 +13,11 @@ from collections import defaultdict
 from datetime import datetime
 import numpy as np
 from spacy.training import Example
+from visualization_components import (
+    ComprehensiveTrainingVisualizer,
+    WordCloudGenerator,
+    LDAAnalyzer
+)
 
 # Fixed random seed for reproducibility
 RANDOM_SEED = 42
@@ -474,7 +479,31 @@ def train_improved_model(input_path: str, output_dir: str, n_iter: int = 100) ->
         model.to_disk(output_path)
         print(f"\nModel saved to: {output_path}")
         
-        # Create report
+        # Initialize visualizers
+        print("\nGenerating visualizations and analytics...")
+        visualizer = ComprehensiveTrainingVisualizer(output_dir)
+        wordcloud_gen = WordCloudGenerator(output_dir)
+        lda_analyzer = LDAAnalyzer(output_dir)
+        
+        # Extract texts for analysis
+        training_texts = [text for text, _ in final_training_data]
+        
+        # Generate visualizations
+        visualizer.plot_training_progress(trainer.metrics_history)
+        visualizer.plot_per_entity_progress(trainer.metrics_history)
+        visualizer.plot_individual_entity_progress(trainer.metrics_history)
+        visualizer.plot_final_results(trainer.metrics_history[-1])
+        visualizer.plot_data_composition(len(training_data), len(balanced_data))
+        
+        # Generate word clouds
+        print("Generating word clouds...")
+        wordcloud_gen.generate_comprehensive_wordclouds(training_texts)
+        
+        # Perform LDA analysis
+        print("Performing LDA topic modeling...")
+        lda_model, dictionary, corpus, coherence = lda_analyzer.perform_lda_analysis(training_texts)
+        
+        # Create comprehensive report
         report_path = os.path.join(output_dir, "training_report.md")
         create_performance_report(
             report_path,
