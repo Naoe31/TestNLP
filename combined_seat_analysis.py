@@ -1429,7 +1429,7 @@ def create_combined_report(
             for label, perc in overall_sent_dist.items():
                 f.write(f"- **{label.title()}**: {perc:.1f}%\n")
             avg_confidence = processed_df_with_kansei['Sentence Sentiment Score'].mean()
-            f.write(f"- Average Sentiment Confidence Score: {avg_confidence:.3f}\n")
+            f.write(f"- Average Sentiment Confidence Score: {avg_confidence:.3f if avg_confidence is not None else 'N/A'}\n")
             f.write("*Refer to `plots/component_transformer_sentiment.png` for component-specific sentiment.*\n\n")
         else:
             f.write("- Transformer sentiment analysis results not available.\n\n")

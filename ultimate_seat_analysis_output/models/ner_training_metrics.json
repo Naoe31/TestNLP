@@ -1,0 +1,2008 @@
+[
+  {
+    "phase": "Epoch 0",
+    "entity_level": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0
+    },
+    "per_entity": {
+      "SEAT_MESSAGE": {
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 25,
+        "tp": 0,
+        "fp": 0,
+        "fn": 25
+      },
+      "ARMREST": {
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 15,
+        "tp": 0,
+        "fp": 0,
+        "fn": 15
+      },
+      "FOOTREST": {
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 19,
+        "tp": 0,
+        "fp": 0,
+        "fn": 19
+      },
+      "CUSHION": {
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 20,
+        "tp": 0,
+        "fp": 0,
+        "fn": 20
+      },
+      "SEAT_SIZE": {
+        "precision": 0,
+        "recall": 0,
+        "f1": 0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "MATERIAL": {
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 12,
+        "tp": 0,
+        "fp": 0,
+        "fn": 12
+      },
+      "RECLINER": {
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 18,
+        "tp": 0,
+        "fp": 0,
+        "fn": 18
+      },
+      "TRAYTABLE": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 26,
+        "tp": 0,
+        "fp": 166,
+        "fn": 26
+      },
+      "HEADREST": {
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 16,
+        "tp": 0,
+        "fp": 0,
+        "fn": 16
+      },
+      "LUMBAR_SUPPORT": {
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 6,
+        "tp": 0,
+        "fp": 0,
+        "fn": 6
+      },
+      "BACKREST": {
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 22,
+        "tp": 0,
+        "fp": 0,
+        "fn": 22
+      },
+      "SEAT_WARMER": {
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 20,
+        "tp": 0,
+        "fp": 0,
+        "fn": 20
+      }
+    }
+  },
+  {
+    "phase": "Epoch 1",
+    "entity_level": {
+      "precision": 0.4368421052631579,
+      "recall": 0.41708542713567837,
+      "f1": 0.4267352185089974
+    },
+    "per_entity": {
+      "SEAT_MESSAGE": {
+        "precision": 0.296875,
+        "recall": 0.76,
+        "f1": 0.42696629213483145,
+        "support": 25,
+        "tp": 19,
+        "fp": 45,
+        "fn": 6
+      },
+      "ARMREST": {
+        "precision": 0.4583333333333333,
+        "recall": 0.7333333333333333,
+        "f1": 0.5641025641025641,
+        "support": 15,
+        "tp": 11,
+        "fp": 13,
+        "fn": 4
+      },
+      "FOOTREST": {
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 19,
+        "tp": 0,
+        "fp": 0,
+        "fn": 19
+      },
+      "CUSHION": {
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 20,
+        "tp": 0,
+        "fp": 0,
+        "fn": 20
+      },
+      "SEAT_SIZE": {
+        "precision": 0,
+        "recall": 0,
+        "f1": 0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "MATERIAL": {
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 12,
+        "tp": 0,
+        "fp": 0,
+        "fn": 12
+      },
+      "RECLINER": {
+        "precision": 0.75,
+        "recall": 0.5,
+        "f1": 0.6,
+        "support": 18,
+        "tp": 9,
+        "fp": 3,
+        "fn": 9
+      },
+      "TRAYTABLE": {
+        "precision": 0.8275862068965517,
+        "recall": 0.9230769230769231,
+        "f1": 0.8727272727272727,
+        "support": 26,
+        "tp": 24,
+        "fp": 5,
+        "fn": 2
+      },
+      "HEADREST": {
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 16,
+        "tp": 0,
+        "fp": 0,
+        "fn": 16
+      },
+      "LUMBAR_SUPPORT": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 6,
+        "tp": 0,
+        "fp": 1,
+        "fn": 6
+      },
+      "BACKREST": {
+        "precision": 0.3157894736842105,
+        "recall": 0.8181818181818182,
+        "f1": 0.4556962025316456,
+        "support": 22,
+        "tp": 18,
+        "fp": 39,
+        "fn": 4
+      },
+      "SEAT_WARMER": {
+        "precision": 0.6666666666666666,
+        "recall": 0.1,
+        "f1": 0.1739130434782609,
+        "support": 20,
+        "tp": 2,
+        "fp": 1,
+        "fn": 18
+      }
+    }
+  },
+  {
+    "phase": "Epoch 2",
+    "entity_level": {
+      "precision": 0.868020304568528,
+      "recall": 0.8592964824120602,
+      "f1": 0.8636363636363635
+    },
+    "per_entity": {
+      "SEAT_MESSAGE": {
+        "precision": 0.8076923076923077,
+        "recall": 0.84,
+        "f1": 0.8235294117647058,
+        "support": 25,
+        "tp": 21,
+        "fp": 5,
+        "fn": 4
+      },
+      "ARMREST": {
+        "precision": 0.9375,
+        "recall": 1.0,
+        "f1": 0.967741935483871,
+        "support": 15,
+        "tp": 15,
+        "fp": 1,
+        "fn": 0
+      },
+      "FOOTREST": {
+        "precision": 0.95,
+        "recall": 1.0,
+        "f1": 0.9743589743589743,
+        "support": 19,
+        "tp": 19,
+        "fp": 1,
+        "fn": 0
+      },
+      "CUSHION": {
+        "precision": 0.9375,
+        "recall": 0.75,
+        "f1": 0.8333333333333334,
+        "support": 20,
+        "tp": 15,
+        "fp": 1,
+        "fn": 5
+      },
+      "SEAT_SIZE": {
+        "precision": 0,
+        "recall": 0,
+        "f1": 0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "MATERIAL": {
+        "precision": 0.6666666666666666,
+        "recall": 0.16666666666666666,
+        "f1": 0.26666666666666666,
+        "support": 12,
+        "tp": 2,
+        "fp": 1,
+        "fn": 10
+      },
+      "RECLINER": {
+        "precision": 0.68,
+        "recall": 0.9444444444444444,
+        "f1": 0.7906976744186047,
+        "support": 18,
+        "tp": 17,
+        "fp": 8,
+        "fn": 1
+      },
+      "TRAYTABLE": {
+        "precision": 0.8666666666666667,
+        "recall": 1.0,
+        "f1": 0.9285714285714286,
+        "support": 26,
+        "tp": 26,
+        "fp": 4,
+        "fn": 0
+      },
+      "HEADREST": {
+        "precision": 1.0,
+        "recall": 0.625,
+        "f1": 0.7692307692307693,
+        "support": 16,
+        "tp": 10,
+        "fp": 0,
+        "fn": 6
+      },
+      "LUMBAR_SUPPORT": {
+        "precision": 1.0,
+        "recall": 0.8333333333333334,
+        "f1": 0.9090909090909091,
+        "support": 6,
+        "tp": 5,
+        "fp": 0,
+        "fn": 1
+      },
+      "BACKREST": {
+        "precision": 0.9130434782608695,
+        "recall": 0.9545454545454546,
+        "f1": 0.9333333333333332,
+        "support": 22,
+        "tp": 21,
+        "fp": 2,
+        "fn": 1
+      },
+      "SEAT_WARMER": {
+        "precision": 0.8695652173913043,
+        "recall": 1.0,
+        "f1": 0.9302325581395349,
+        "support": 20,
+        "tp": 20,
+        "fp": 3,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "phase": "Epoch 3",
+    "entity_level": {
+      "precision": 0.900497512437811,
+      "recall": 0.9095477386934674,
+      "f1": 0.905
+    },
+    "per_entity": {
+      "SEAT_MESSAGE": {
+        "precision": 0.7307692307692307,
+        "recall": 0.76,
+        "f1": 0.7450980392156863,
+        "support": 25,
+        "tp": 19,
+        "fp": 7,
+        "fn": 6
+      },
+      "ARMREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 15,
+        "tp": 15,
+        "fp": 0,
+        "fn": 0
+      },
+      "FOOTREST": {
+        "precision": 0.8571428571428571,
+        "recall": 0.9473684210526315,
+        "f1": 0.9,
+        "support": 19,
+        "tp": 18,
+        "fp": 3,
+        "fn": 1
+      },
+      "CUSHION": {
+        "precision": 0.8636363636363636,
+        "recall": 0.95,
+        "f1": 0.9047619047619048,
+        "support": 20,
+        "tp": 19,
+        "fp": 3,
+        "fn": 1
+      },
+      "SEAT_SIZE": {
+        "precision": 0,
+        "recall": 0,
+        "f1": 0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "MATERIAL": {
+        "precision": 0.6666666666666666,
+        "recall": 0.3333333333333333,
+        "f1": 0.4444444444444444,
+        "support": 12,
+        "tp": 4,
+        "fp": 2,
+        "fn": 8
+      },
+      "RECLINER": {
+        "precision": 0.8947368421052632,
+        "recall": 0.9444444444444444,
+        "f1": 0.918918918918919,
+        "support": 18,
+        "tp": 17,
+        "fp": 2,
+        "fn": 1
+      },
+      "TRAYTABLE": {
+        "precision": 0.9629629629629629,
+        "recall": 1.0,
+        "f1": 0.9811320754716981,
+        "support": 26,
+        "tp": 26,
+        "fp": 1,
+        "fn": 0
+      },
+      "HEADREST": {
+        "precision": 0.9411764705882353,
+        "recall": 1.0,
+        "f1": 0.9696969696969697,
+        "support": 16,
+        "tp": 16,
+        "fp": 1,
+        "fn": 0
+      },
+      "LUMBAR_SUPPORT": {
+        "precision": 1.0,
+        "recall": 0.8333333333333334,
+        "f1": 0.9090909090909091,
+        "support": 6,
+        "tp": 5,
+        "fp": 0,
+        "fn": 1
+      },
+      "BACKREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 22,
+        "tp": 22,
+        "fp": 0,
+        "fn": 0
+      },
+      "SEAT_WARMER": {
+        "precision": 0.9523809523809523,
+        "recall": 1.0,
+        "f1": 0.975609756097561,
+        "support": 20,
+        "tp": 20,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "phase": "Epoch 4",
+    "entity_level": {
+      "precision": 0.9698492462311558,
+      "recall": 0.9698492462311558,
+      "f1": 0.9698492462311558
+    },
+    "per_entity": {
+      "SEAT_MESSAGE": {
+        "precision": 0.9230769230769231,
+        "recall": 0.96,
+        "f1": 0.9411764705882353,
+        "support": 25,
+        "tp": 24,
+        "fp": 2,
+        "fn": 1
+      },
+      "ARMREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 15,
+        "tp": 15,
+        "fp": 0,
+        "fn": 0
+      },
+      "FOOTREST": {
+        "precision": 0.95,
+        "recall": 1.0,
+        "f1": 0.9743589743589743,
+        "support": 19,
+        "tp": 19,
+        "fp": 1,
+        "fn": 0
+      },
+      "CUSHION": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 20,
+        "tp": 20,
+        "fp": 0,
+        "fn": 0
+      },
+      "SEAT_SIZE": {
+        "precision": 0,
+        "recall": 0,
+        "f1": 0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "MATERIAL": {
+        "precision": 0.875,
+        "recall": 0.5833333333333334,
+        "f1": 0.7000000000000001,
+        "support": 12,
+        "tp": 7,
+        "fp": 1,
+        "fn": 5
+      },
+      "RECLINER": {
+        "precision": 0.9473684210526315,
+        "recall": 1.0,
+        "f1": 0.972972972972973,
+        "support": 18,
+        "tp": 18,
+        "fp": 1,
+        "fn": 0
+      },
+      "TRAYTABLE": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 26,
+        "tp": 26,
+        "fp": 0,
+        "fn": 0
+      },
+      "HEADREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 16,
+        "tp": 16,
+        "fp": 0,
+        "fn": 0
+      },
+      "LUMBAR_SUPPORT": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 6,
+        "tp": 6,
+        "fp": 0,
+        "fn": 0
+      },
+      "BACKREST": {
+        "precision": 0.9565217391304348,
+        "recall": 1.0,
+        "f1": 0.9777777777777777,
+        "support": 22,
+        "tp": 22,
+        "fp": 1,
+        "fn": 0
+      },
+      "SEAT_WARMER": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 20,
+        "tp": 20,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "phase": "Epoch 5",
+    "entity_level": {
+      "precision": 0.9554455445544554,
+      "recall": 0.9698492462311558,
+      "f1": 0.9625935162094762
+    },
+    "per_entity": {
+      "SEAT_MESSAGE": {
+        "precision": 0.8846153846153846,
+        "recall": 0.92,
+        "f1": 0.9019607843137256,
+        "support": 25,
+        "tp": 23,
+        "fp": 3,
+        "fn": 2
+      },
+      "ARMREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 15,
+        "tp": 15,
+        "fp": 0,
+        "fn": 0
+      },
+      "FOOTREST": {
+        "precision": 0.95,
+        "recall": 1.0,
+        "f1": 0.9743589743589743,
+        "support": 19,
+        "tp": 19,
+        "fp": 1,
+        "fn": 0
+      },
+      "CUSHION": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 20,
+        "tp": 20,
+        "fp": 0,
+        "fn": 0
+      },
+      "SEAT_SIZE": {
+        "precision": 0,
+        "recall": 0,
+        "f1": 0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "MATERIAL": {
+        "precision": 0.8888888888888888,
+        "recall": 0.6666666666666666,
+        "f1": 0.761904761904762,
+        "support": 12,
+        "tp": 8,
+        "fp": 1,
+        "fn": 4
+      },
+      "RECLINER": {
+        "precision": 0.9473684210526315,
+        "recall": 1.0,
+        "f1": 0.972972972972973,
+        "support": 18,
+        "tp": 18,
+        "fp": 1,
+        "fn": 0
+      },
+      "TRAYTABLE": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 26,
+        "tp": 26,
+        "fp": 0,
+        "fn": 0
+      },
+      "HEADREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 16,
+        "tp": 16,
+        "fp": 0,
+        "fn": 0
+      },
+      "LUMBAR_SUPPORT": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 6,
+        "tp": 6,
+        "fp": 0,
+        "fn": 0
+      },
+      "BACKREST": {
+        "precision": 0.9166666666666666,
+        "recall": 1.0,
+        "f1": 0.9565217391304348,
+        "support": 22,
+        "tp": 22,
+        "fp": 2,
+        "fn": 0
+      },
+      "SEAT_WARMER": {
+        "precision": 0.9523809523809523,
+        "recall": 1.0,
+        "f1": 0.975609756097561,
+        "support": 20,
+        "tp": 20,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "phase": "Epoch 6",
+    "entity_level": {
+      "precision": 0.9166666666666666,
+      "recall": 0.9396984924623115,
+      "f1": 0.9280397022332505
+    },
+    "per_entity": {
+      "SEAT_MESSAGE": {
+        "precision": 0.7692307692307693,
+        "recall": 0.8,
+        "f1": 0.7843137254901961,
+        "support": 25,
+        "tp": 20,
+        "fp": 6,
+        "fn": 5
+      },
+      "ARMREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 15,
+        "tp": 15,
+        "fp": 0,
+        "fn": 0
+      },
+      "FOOTREST": {
+        "precision": 0.9473684210526315,
+        "recall": 0.9473684210526315,
+        "f1": 0.9473684210526315,
+        "support": 19,
+        "tp": 18,
+        "fp": 1,
+        "fn": 1
+      },
+      "CUSHION": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 20,
+        "tp": 20,
+        "fp": 0,
+        "fn": 0
+      },
+      "SEAT_SIZE": {
+        "precision": 0,
+        "recall": 0,
+        "f1": 0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "MATERIAL": {
+        "precision": 0.8888888888888888,
+        "recall": 0.6666666666666666,
+        "f1": 0.761904761904762,
+        "support": 12,
+        "tp": 8,
+        "fp": 1,
+        "fn": 4
+      },
+      "RECLINER": {
+        "precision": 0.9,
+        "recall": 1.0,
+        "f1": 0.9473684210526316,
+        "support": 18,
+        "tp": 18,
+        "fp": 2,
+        "fn": 0
+      },
+      "TRAYTABLE": {
+        "precision": 0.8571428571428571,
+        "recall": 0.9230769230769231,
+        "f1": 0.888888888888889,
+        "support": 26,
+        "tp": 24,
+        "fp": 4,
+        "fn": 2
+      },
+      "HEADREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 16,
+        "tp": 16,
+        "fp": 0,
+        "fn": 0
+      },
+      "LUMBAR_SUPPORT": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 6,
+        "tp": 6,
+        "fp": 0,
+        "fn": 0
+      },
+      "BACKREST": {
+        "precision": 0.9166666666666666,
+        "recall": 1.0,
+        "f1": 0.9565217391304348,
+        "support": 22,
+        "tp": 22,
+        "fp": 2,
+        "fn": 0
+      },
+      "SEAT_WARMER": {
+        "precision": 0.9523809523809523,
+        "recall": 1.0,
+        "f1": 0.975609756097561,
+        "support": 20,
+        "tp": 20,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "phase": "Epoch 7",
+    "entity_level": {
+      "precision": 0.9219512195121952,
+      "recall": 0.949748743718593,
+      "f1": 0.9356435643564357
+    },
+    "per_entity": {
+      "SEAT_MESSAGE": {
+        "precision": 0.8333333333333334,
+        "recall": 0.8,
+        "f1": 0.816326530612245,
+        "support": 25,
+        "tp": 20,
+        "fp": 4,
+        "fn": 5
+      },
+      "ARMREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 15,
+        "tp": 15,
+        "fp": 0,
+        "fn": 0
+      },
+      "FOOTREST": {
+        "precision": 0.95,
+        "recall": 1.0,
+        "f1": 0.9743589743589743,
+        "support": 19,
+        "tp": 19,
+        "fp": 1,
+        "fn": 0
+      },
+      "CUSHION": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 20,
+        "tp": 20,
+        "fp": 0,
+        "fn": 0
+      },
+      "SEAT_SIZE": {
+        "precision": 0,
+        "recall": 0,
+        "f1": 0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "MATERIAL": {
+        "precision": 0.875,
+        "recall": 0.5833333333333334,
+        "f1": 0.7000000000000001,
+        "support": 12,
+        "tp": 7,
+        "fp": 1,
+        "fn": 5
+      },
+      "RECLINER": {
+        "precision": 0.9473684210526315,
+        "recall": 1.0,
+        "f1": 0.972972972972973,
+        "support": 18,
+        "tp": 18,
+        "fp": 1,
+        "fn": 0
+      },
+      "TRAYTABLE": {
+        "precision": 0.9285714285714286,
+        "recall": 1.0,
+        "f1": 0.962962962962963,
+        "support": 26,
+        "tp": 26,
+        "fp": 2,
+        "fn": 0
+      },
+      "HEADREST": {
+        "precision": 0.8,
+        "recall": 1.0,
+        "f1": 0.888888888888889,
+        "support": 16,
+        "tp": 16,
+        "fp": 4,
+        "fn": 0
+      },
+      "LUMBAR_SUPPORT": {
+        "precision": 0.8571428571428571,
+        "recall": 1.0,
+        "f1": 0.923076923076923,
+        "support": 6,
+        "tp": 6,
+        "fp": 1,
+        "fn": 0
+      },
+      "BACKREST": {
+        "precision": 0.9565217391304348,
+        "recall": 1.0,
+        "f1": 0.9777777777777777,
+        "support": 22,
+        "tp": 22,
+        "fp": 1,
+        "fn": 0
+      },
+      "SEAT_WARMER": {
+        "precision": 0.9523809523809523,
+        "recall": 1.0,
+        "f1": 0.975609756097561,
+        "support": 20,
+        "tp": 20,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "phase": "Epoch 8",
+    "entity_level": {
+      "precision": 0.9597989949748744,
+      "recall": 0.9597989949748744,
+      "f1": 0.9597989949748744
+    },
+    "per_entity": {
+      "SEAT_MESSAGE": {
+        "precision": 0.9230769230769231,
+        "recall": 0.96,
+        "f1": 0.9411764705882353,
+        "support": 25,
+        "tp": 24,
+        "fp": 2,
+        "fn": 1
+      },
+      "ARMREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 15,
+        "tp": 15,
+        "fp": 0,
+        "fn": 0
+      },
+      "FOOTREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 19,
+        "tp": 19,
+        "fp": 0,
+        "fn": 0
+      },
+      "CUSHION": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 20,
+        "tp": 20,
+        "fp": 0,
+        "fn": 0
+      },
+      "SEAT_SIZE": {
+        "precision": 0,
+        "recall": 0,
+        "f1": 0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "MATERIAL": {
+        "precision": 0.875,
+        "recall": 0.5833333333333334,
+        "f1": 0.7000000000000001,
+        "support": 12,
+        "tp": 7,
+        "fp": 1,
+        "fn": 5
+      },
+      "RECLINER": {
+        "precision": 0.9411764705882353,
+        "recall": 0.8888888888888888,
+        "f1": 0.9142857142857143,
+        "support": 18,
+        "tp": 16,
+        "fp": 1,
+        "fn": 2
+      },
+      "TRAYTABLE": {
+        "precision": 0.9285714285714286,
+        "recall": 1.0,
+        "f1": 0.962962962962963,
+        "support": 26,
+        "tp": 26,
+        "fp": 2,
+        "fn": 0
+      },
+      "HEADREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 16,
+        "tp": 16,
+        "fp": 0,
+        "fn": 0
+      },
+      "LUMBAR_SUPPORT": {
+        "precision": 0.8571428571428571,
+        "recall": 1.0,
+        "f1": 0.923076923076923,
+        "support": 6,
+        "tp": 6,
+        "fp": 1,
+        "fn": 0
+      },
+      "BACKREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 22,
+        "tp": 22,
+        "fp": 0,
+        "fn": 0
+      },
+      "SEAT_WARMER": {
+        "precision": 0.9523809523809523,
+        "recall": 1.0,
+        "f1": 0.975609756097561,
+        "support": 20,
+        "tp": 20,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "phase": "Epoch 9",
+    "entity_level": {
+      "precision": 0.9166666666666666,
+      "recall": 0.9396984924623115,
+      "f1": 0.9280397022332505
+    },
+    "per_entity": {
+      "SEAT_MESSAGE": {
+        "precision": 0.7307692307692307,
+        "recall": 0.76,
+        "f1": 0.7450980392156863,
+        "support": 25,
+        "tp": 19,
+        "fp": 7,
+        "fn": 6
+      },
+      "ARMREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 15,
+        "tp": 15,
+        "fp": 0,
+        "fn": 0
+      },
+      "FOOTREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 19,
+        "tp": 19,
+        "fp": 0,
+        "fn": 0
+      },
+      "CUSHION": {
+        "precision": 1.0,
+        "recall": 0.95,
+        "f1": 0.9743589743589743,
+        "support": 20,
+        "tp": 19,
+        "fp": 0,
+        "fn": 1
+      },
+      "SEAT_SIZE": {
+        "precision": 0,
+        "recall": 0,
+        "f1": 0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "MATERIAL": {
+        "precision": 0.7777777777777778,
+        "recall": 0.5833333333333334,
+        "f1": 0.6666666666666666,
+        "support": 12,
+        "tp": 7,
+        "fp": 2,
+        "fn": 5
+      },
+      "RECLINER": {
+        "precision": 0.9473684210526315,
+        "recall": 1.0,
+        "f1": 0.972972972972973,
+        "support": 18,
+        "tp": 18,
+        "fp": 1,
+        "fn": 0
+      },
+      "TRAYTABLE": {
+        "precision": 0.9285714285714286,
+        "recall": 1.0,
+        "f1": 0.962962962962963,
+        "support": 26,
+        "tp": 26,
+        "fp": 2,
+        "fn": 0
+      },
+      "HEADREST": {
+        "precision": 0.9411764705882353,
+        "recall": 1.0,
+        "f1": 0.9696969696969697,
+        "support": 16,
+        "tp": 16,
+        "fp": 1,
+        "fn": 0
+      },
+      "LUMBAR_SUPPORT": {
+        "precision": 0.8571428571428571,
+        "recall": 1.0,
+        "f1": 0.923076923076923,
+        "support": 6,
+        "tp": 6,
+        "fp": 1,
+        "fn": 0
+      },
+      "BACKREST": {
+        "precision": 0.9166666666666666,
+        "recall": 1.0,
+        "f1": 0.9565217391304348,
+        "support": 22,
+        "tp": 22,
+        "fp": 2,
+        "fn": 0
+      },
+      "SEAT_WARMER": {
+        "precision": 0.9523809523809523,
+        "recall": 1.0,
+        "f1": 0.975609756097561,
+        "support": 20,
+        "tp": 20,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "phase": "Epoch 10",
+    "entity_level": {
+      "precision": 0.9396984924623115,
+      "recall": 0.9396984924623115,
+      "f1": 0.9396984924623115
+    },
+    "per_entity": {
+      "SEAT_MESSAGE": {
+        "precision": 0.8461538461538461,
+        "recall": 0.88,
+        "f1": 0.8627450980392156,
+        "support": 25,
+        "tp": 22,
+        "fp": 4,
+        "fn": 3
+      },
+      "ARMREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 15,
+        "tp": 15,
+        "fp": 0,
+        "fn": 0
+      },
+      "FOOTREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 19,
+        "tp": 19,
+        "fp": 0,
+        "fn": 0
+      },
+      "CUSHION": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 20,
+        "tp": 20,
+        "fp": 0,
+        "fn": 0
+      },
+      "SEAT_SIZE": {
+        "precision": 0,
+        "recall": 0,
+        "f1": 0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "MATERIAL": {
+        "precision": 0.8333333333333334,
+        "recall": 0.4166666666666667,
+        "f1": 0.5555555555555556,
+        "support": 12,
+        "tp": 5,
+        "fp": 1,
+        "fn": 7
+      },
+      "RECLINER": {
+        "precision": 0.9411764705882353,
+        "recall": 0.8888888888888888,
+        "f1": 0.9142857142857143,
+        "support": 18,
+        "tp": 16,
+        "fp": 1,
+        "fn": 2
+      },
+      "TRAYTABLE": {
+        "precision": 0.9285714285714286,
+        "recall": 1.0,
+        "f1": 0.962962962962963,
+        "support": 26,
+        "tp": 26,
+        "fp": 2,
+        "fn": 0
+      },
+      "HEADREST": {
+        "precision": 0.9411764705882353,
+        "recall": 1.0,
+        "f1": 0.9696969696969697,
+        "support": 16,
+        "tp": 16,
+        "fp": 1,
+        "fn": 0
+      },
+      "LUMBAR_SUPPORT": {
+        "precision": 0.8571428571428571,
+        "recall": 1.0,
+        "f1": 0.923076923076923,
+        "support": 6,
+        "tp": 6,
+        "fp": 1,
+        "fn": 0
+      },
+      "BACKREST": {
+        "precision": 0.9565217391304348,
+        "recall": 1.0,
+        "f1": 0.9777777777777777,
+        "support": 22,
+        "tp": 22,
+        "fp": 1,
+        "fn": 0
+      },
+      "SEAT_WARMER": {
+        "precision": 0.9523809523809523,
+        "recall": 1.0,
+        "f1": 0.975609756097561,
+        "support": 20,
+        "tp": 20,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "phase": "Epoch 12",
+    "entity_level": {
+      "precision": 0.9310344827586207,
+      "recall": 0.949748743718593,
+      "f1": 0.9402985074626866
+    },
+    "per_entity": {
+      "SEAT_MESSAGE": {
+        "precision": 0.8076923076923077,
+        "recall": 0.84,
+        "f1": 0.8235294117647058,
+        "support": 25,
+        "tp": 21,
+        "fp": 5,
+        "fn": 4
+      },
+      "ARMREST": {
+        "precision": 0.9375,
+        "recall": 1.0,
+        "f1": 0.967741935483871,
+        "support": 15,
+        "tp": 15,
+        "fp": 1,
+        "fn": 0
+      },
+      "FOOTREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 19,
+        "tp": 19,
+        "fp": 0,
+        "fn": 0
+      },
+      "CUSHION": {
+        "precision": 0.9523809523809523,
+        "recall": 1.0,
+        "f1": 0.975609756097561,
+        "support": 20,
+        "tp": 20,
+        "fp": 1,
+        "fn": 0
+      },
+      "SEAT_SIZE": {
+        "precision": 0,
+        "recall": 0,
+        "f1": 0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "MATERIAL": {
+        "precision": 0.875,
+        "recall": 0.5833333333333334,
+        "f1": 0.7000000000000001,
+        "support": 12,
+        "tp": 7,
+        "fp": 1,
+        "fn": 5
+      },
+      "RECLINER": {
+        "precision": 0.9444444444444444,
+        "recall": 0.9444444444444444,
+        "f1": 0.9444444444444444,
+        "support": 18,
+        "tp": 17,
+        "fp": 1,
+        "fn": 1
+      },
+      "TRAYTABLE": {
+        "precision": 0.9285714285714286,
+        "recall": 1.0,
+        "f1": 0.962962962962963,
+        "support": 26,
+        "tp": 26,
+        "fp": 2,
+        "fn": 0
+      },
+      "HEADREST": {
+        "precision": 0.9411764705882353,
+        "recall": 1.0,
+        "f1": 0.9696969696969697,
+        "support": 16,
+        "tp": 16,
+        "fp": 1,
+        "fn": 0
+      },
+      "LUMBAR_SUPPORT": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 6,
+        "tp": 6,
+        "fp": 0,
+        "fn": 0
+      },
+      "BACKREST": {
+        "precision": 0.9565217391304348,
+        "recall": 1.0,
+        "f1": 0.9777777777777777,
+        "support": 22,
+        "tp": 22,
+        "fp": 1,
+        "fn": 0
+      },
+      "SEAT_WARMER": {
+        "precision": 0.9523809523809523,
+        "recall": 1.0,
+        "f1": 0.975609756097561,
+        "support": 20,
+        "tp": 20,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "phase": "Epoch 14",
+    "entity_level": {
+      "precision": 0.9396984924623115,
+      "recall": 0.9396984924623115,
+      "f1": 0.9396984924623115
+    },
+    "per_entity": {
+      "SEAT_MESSAGE": {
+        "precision": 0.8333333333333334,
+        "recall": 0.8,
+        "f1": 0.816326530612245,
+        "support": 25,
+        "tp": 20,
+        "fp": 4,
+        "fn": 5
+      },
+      "ARMREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 15,
+        "tp": 15,
+        "fp": 0,
+        "fn": 0
+      },
+      "FOOTREST": {
+        "precision": 0.9,
+        "recall": 0.9473684210526315,
+        "f1": 0.9230769230769231,
+        "support": 19,
+        "tp": 18,
+        "fp": 2,
+        "fn": 1
+      },
+      "CUSHION": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 20,
+        "tp": 20,
+        "fp": 0,
+        "fn": 0
+      },
+      "SEAT_SIZE": {
+        "precision": 0,
+        "recall": 0,
+        "f1": 0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "MATERIAL": {
+        "precision": 0.75,
+        "recall": 0.5,
+        "f1": 0.6,
+        "support": 12,
+        "tp": 6,
+        "fp": 2,
+        "fn": 6
+      },
+      "RECLINER": {
+        "precision": 0.9473684210526315,
+        "recall": 1.0,
+        "f1": 0.972972972972973,
+        "support": 18,
+        "tp": 18,
+        "fp": 1,
+        "fn": 0
+      },
+      "TRAYTABLE": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 26,
+        "tp": 26,
+        "fp": 0,
+        "fn": 0
+      },
+      "HEADREST": {
+        "precision": 0.9411764705882353,
+        "recall": 1.0,
+        "f1": 0.9696969696969697,
+        "support": 16,
+        "tp": 16,
+        "fp": 1,
+        "fn": 0
+      },
+      "LUMBAR_SUPPORT": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 6,
+        "tp": 6,
+        "fp": 0,
+        "fn": 0
+      },
+      "BACKREST": {
+        "precision": 0.9565217391304348,
+        "recall": 1.0,
+        "f1": 0.9777777777777777,
+        "support": 22,
+        "tp": 22,
+        "fp": 1,
+        "fn": 0
+      },
+      "SEAT_WARMER": {
+        "precision": 0.9523809523809523,
+        "recall": 1.0,
+        "f1": 0.975609756097561,
+        "support": 20,
+        "tp": 20,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "phase": "Epoch 16",
+    "entity_level": {
+      "precision": 0.9353233830845771,
+      "recall": 0.9447236180904522,
+      "f1": 0.94
+    },
+    "per_entity": {
+      "SEAT_MESSAGE": {
+        "precision": 0.8461538461538461,
+        "recall": 0.88,
+        "f1": 0.8627450980392156,
+        "support": 25,
+        "tp": 22,
+        "fp": 4,
+        "fn": 3
+      },
+      "ARMREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 15,
+        "tp": 15,
+        "fp": 0,
+        "fn": 0
+      },
+      "FOOTREST": {
+        "precision": 1.0,
+        "recall": 0.9473684210526315,
+        "f1": 0.972972972972973,
+        "support": 19,
+        "tp": 18,
+        "fp": 0,
+        "fn": 1
+      },
+      "CUSHION": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 20,
+        "tp": 20,
+        "fp": 0,
+        "fn": 0
+      },
+      "SEAT_SIZE": {
+        "precision": 0,
+        "recall": 0,
+        "f1": 0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "MATERIAL": {
+        "precision": 0.875,
+        "recall": 0.5833333333333334,
+        "f1": 0.7000000000000001,
+        "support": 12,
+        "tp": 7,
+        "fp": 1,
+        "fn": 5
+      },
+      "RECLINER": {
+        "precision": 0.8888888888888888,
+        "recall": 0.8888888888888888,
+        "f1": 0.8888888888888888,
+        "support": 18,
+        "tp": 16,
+        "fp": 2,
+        "fn": 2
+      },
+      "TRAYTABLE": {
+        "precision": 0.9285714285714286,
+        "recall": 1.0,
+        "f1": 0.962962962962963,
+        "support": 26,
+        "tp": 26,
+        "fp": 2,
+        "fn": 0
+      },
+      "HEADREST": {
+        "precision": 0.9411764705882353,
+        "recall": 1.0,
+        "f1": 0.9696969696969697,
+        "support": 16,
+        "tp": 16,
+        "fp": 1,
+        "fn": 0
+      },
+      "LUMBAR_SUPPORT": {
+        "precision": 0.8571428571428571,
+        "recall": 1.0,
+        "f1": 0.923076923076923,
+        "support": 6,
+        "tp": 6,
+        "fp": 1,
+        "fn": 0
+      },
+      "BACKREST": {
+        "precision": 0.9565217391304348,
+        "recall": 1.0,
+        "f1": 0.9777777777777777,
+        "support": 22,
+        "tp": 22,
+        "fp": 1,
+        "fn": 0
+      },
+      "SEAT_WARMER": {
+        "precision": 0.9523809523809523,
+        "recall": 1.0,
+        "f1": 0.975609756097561,
+        "support": 20,
+        "tp": 20,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "phase": "Epoch 18",
+    "entity_level": {
+      "precision": 0.9402985074626866,
+      "recall": 0.949748743718593,
+      "f1": 0.9450000000000001
+    },
+    "per_entity": {
+      "SEAT_MESSAGE": {
+        "precision": 0.8076923076923077,
+        "recall": 0.84,
+        "f1": 0.8235294117647058,
+        "support": 25,
+        "tp": 21,
+        "fp": 5,
+        "fn": 4
+      },
+      "ARMREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 15,
+        "tp": 15,
+        "fp": 0,
+        "fn": 0
+      },
+      "FOOTREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 19,
+        "tp": 19,
+        "fp": 0,
+        "fn": 0
+      },
+      "CUSHION": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 20,
+        "tp": 20,
+        "fp": 0,
+        "fn": 0
+      },
+      "SEAT_SIZE": {
+        "precision": 0,
+        "recall": 0,
+        "f1": 0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "MATERIAL": {
+        "precision": 0.7777777777777778,
+        "recall": 0.5833333333333334,
+        "f1": 0.6666666666666666,
+        "support": 12,
+        "tp": 7,
+        "fp": 2,
+        "fn": 5
+      },
+      "RECLINER": {
+        "precision": 0.8947368421052632,
+        "recall": 0.9444444444444444,
+        "f1": 0.918918918918919,
+        "support": 18,
+        "tp": 17,
+        "fp": 2,
+        "fn": 1
+      },
+      "TRAYTABLE": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 26,
+        "tp": 26,
+        "fp": 0,
+        "fn": 0
+      },
+      "HEADREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 16,
+        "tp": 16,
+        "fp": 0,
+        "fn": 0
+      },
+      "LUMBAR_SUPPORT": {
+        "precision": 0.8571428571428571,
+        "recall": 1.0,
+        "f1": 0.923076923076923,
+        "support": 6,
+        "tp": 6,
+        "fp": 1,
+        "fn": 0
+      },
+      "BACKREST": {
+        "precision": 0.9565217391304348,
+        "recall": 1.0,
+        "f1": 0.9777777777777777,
+        "support": 22,
+        "tp": 22,
+        "fp": 1,
+        "fn": 0
+      },
+      "SEAT_WARMER": {
+        "precision": 0.9523809523809523,
+        "recall": 1.0,
+        "f1": 0.975609756097561,
+        "support": 20,
+        "tp": 20,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "phase": "Epoch 20",
+    "entity_level": {
+      "precision": 0.9356435643564357,
+      "recall": 0.949748743718593,
+      "f1": 0.9426433915211971
+    },
+    "per_entity": {
+      "SEAT_MESSAGE": {
+        "precision": 0.7692307692307693,
+        "recall": 0.8,
+        "f1": 0.7843137254901961,
+        "support": 25,
+        "tp": 20,
+        "fp": 6,
+        "fn": 5
+      },
+      "ARMREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 15,
+        "tp": 15,
+        "fp": 0,
+        "fn": 0
+      },
+      "FOOTREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 19,
+        "tp": 19,
+        "fp": 0,
+        "fn": 0
+      },
+      "CUSHION": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 20,
+        "tp": 20,
+        "fp": 0,
+        "fn": 0
+      },
+      "SEAT_SIZE": {
+        "precision": 0,
+        "recall": 0,
+        "f1": 0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "MATERIAL": {
+        "precision": 0.7777777777777778,
+        "recall": 0.5833333333333334,
+        "f1": 0.6666666666666666,
+        "support": 12,
+        "tp": 7,
+        "fp": 2,
+        "fn": 5
+      },
+      "RECLINER": {
+        "precision": 0.9473684210526315,
+        "recall": 1.0,
+        "f1": 0.972972972972973,
+        "support": 18,
+        "tp": 18,
+        "fp": 1,
+        "fn": 0
+      },
+      "TRAYTABLE": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 26,
+        "tp": 26,
+        "fp": 0,
+        "fn": 0
+      },
+      "HEADREST": {
+        "precision": 0.9411764705882353,
+        "recall": 1.0,
+        "f1": 0.9696969696969697,
+        "support": 16,
+        "tp": 16,
+        "fp": 1,
+        "fn": 0
+      },
+      "LUMBAR_SUPPORT": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 6,
+        "tp": 6,
+        "fp": 0,
+        "fn": 0
+      },
+      "BACKREST": {
+        "precision": 0.9565217391304348,
+        "recall": 1.0,
+        "f1": 0.9777777777777777,
+        "support": 22,
+        "tp": 22,
+        "fp": 1,
+        "fn": 0
+      },
+      "SEAT_WARMER": {
+        "precision": 0.9090909090909091,
+        "recall": 1.0,
+        "f1": 0.9523809523809523,
+        "support": 20,
+        "tp": 20,
+        "fp": 2,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "phase": "Epoch 22",
+    "entity_level": {
+      "precision": 0.95,
+      "recall": 0.9547738693467337,
+      "f1": 0.9523809523809523
+    },
+    "per_entity": {
+      "SEAT_MESSAGE": {
+        "precision": 0.8461538461538461,
+        "recall": 0.88,
+        "f1": 0.8627450980392156,
+        "support": 25,
+        "tp": 22,
+        "fp": 4,
+        "fn": 3
+      },
+      "ARMREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 15,
+        "tp": 15,
+        "fp": 0,
+        "fn": 0
+      },
+      "FOOTREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 19,
+        "tp": 19,
+        "fp": 0,
+        "fn": 0
+      },
+      "CUSHION": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 20,
+        "tp": 20,
+        "fp": 0,
+        "fn": 0
+      },
+      "SEAT_SIZE": {
+        "precision": 0,
+        "recall": 0,
+        "f1": 0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "MATERIAL": {
+        "precision": 0.7777777777777778,
+        "recall": 0.5833333333333334,
+        "f1": 0.6666666666666666,
+        "support": 12,
+        "tp": 7,
+        "fp": 2,
+        "fn": 5
+      },
+      "RECLINER": {
+        "precision": 0.8947368421052632,
+        "recall": 0.9444444444444444,
+        "f1": 0.918918918918919,
+        "support": 18,
+        "tp": 17,
+        "fp": 2,
+        "fn": 1
+      },
+      "TRAYTABLE": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 26,
+        "tp": 26,
+        "fp": 0,
+        "fn": 0
+      },
+      "HEADREST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 16,
+        "tp": 16,
+        "fp": 0,
+        "fn": 0
+      },
+      "LUMBAR_SUPPORT": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 6,
+        "tp": 6,
+        "fp": 0,
+        "fn": 0
+      },
+      "BACKREST": {
+        "precision": 0.9565217391304348,
+        "recall": 1.0,
+        "f1": 0.9777777777777777,
+        "support": 22,
+        "tp": 22,
+        "fp": 1,
+        "fn": 0
+      },
+      "SEAT_WARMER": {
+        "precision": 0.9523809523809523,
+        "recall": 1.0,
+        "f1": 0.975609756097561,
+        "support": 20,
+        "tp": 20,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  }
+]
