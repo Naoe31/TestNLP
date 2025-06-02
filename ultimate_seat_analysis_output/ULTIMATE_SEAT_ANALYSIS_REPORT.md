@@ -1,6 +1,6 @@
 # Ultimate Seat Analysis Report
 
-**Generated on:** 2025-06-02 06:57:32
+**Generated on:** 2025-06-02 11:56:01
 **Random Seed:** 42
 
 ## 🎯 Executive Summary
@@ -12,36 +12,35 @@ This comprehensive analysis combines:
 - **Cross-modal Analytics** for holistic understanding
 
 ## 📊 Dataset Overview
-- **Total Unique Reviews:** 875
-- **Total Entity Mentions:** 1,624
+- **Total Unique Reviews:** 877
+- **Total Entity Mentions:** 1,720
 - **Entities Identified:** 11 types
 
 ## 🤖 Named Entity Recognition Performance
 ### Overall Performance:
-- **Precision:** 0.950
-- **Recall:** 0.955
-- **F1-Score:** 0.952
+- **Precision:** 0.965
+- **Recall:** 0.970
+- **F1-Score:** 0.967
 
 ### Per-Entity Performance:
 | Entity | Precision | Recall | F1-Score | Support |
 |--------|-----------|--------|----------|----------|
-| ARMREST | 1.000 | 1.000 | 1.000 | 15 |
-| BACKREST | 0.957 | 1.000 | 0.978 | 22 |
-| CUSHION | 1.000 | 1.000 | 1.000 | 20 |
-| FOOTREST | 1.000 | 1.000 | 1.000 | 19 |
-| HEADREST | 1.000 | 1.000 | 1.000 | 16 |
-| LUMBAR_SUPPORT | 1.000 | 1.000 | 1.000 | 6 |
-| MATERIAL | 0.778 | 0.583 | 0.667 | 12 |
-| RECLINER | 0.895 | 0.944 | 0.919 | 18 |
-| SEAT_MESSAGE | 0.846 | 0.880 | 0.863 | 25 |
-| SEAT_SIZE | 0.000 | 0.000 | 0.000 | 0 |
-| SEAT_WARMER | 0.952 | 1.000 | 0.976 | 20 |
-| TRAYTABLE | 1.000 | 1.000 | 1.000 | 26 |
+| ARMREST | 1.000 | 1.000 | 1.000 | 22 |
+| BACKREST | 1.000 | 1.000 | 1.000 | 21 |
+| CUSHION | 1.000 | 1.000 | 1.000 | 13 |
+| FOOTREST | 1.000 | 1.000 | 1.000 | 13 |
+| HEADREST | 1.000 | 1.000 | 1.000 | 14 |
+| LUMBAR_SUPPORT | 0.900 | 0.900 | 0.900 | 10 |
+| MATERIAL | 0.926 | 0.926 | 0.926 | 27 |
+| RECLINER | 0.947 | 0.947 | 0.947 | 19 |
+| SEAT_MESSAGE | 0.913 | 0.913 | 0.913 | 23 |
+| SEAT_WARMER | 1.000 | 1.000 | 1.000 | 15 |
+| TRAYTABLE | 0.955 | 1.000 | 0.977 | 21 |
 
 ## 💭 Sentiment Analysis Results
 ### Overall Sentiment Distribution:
-- **Positive:** 78.2%
-- **Negative:** 21.8%
+- **Positive:** 78.1%
+- **Negative:** 21.9%
 - **Average Confidence:** 0.995
 
 ## 🎨 Kansei Engineering Analysis
