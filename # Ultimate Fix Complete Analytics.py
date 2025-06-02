@@ -538,7 +538,7 @@ class EnhancedNERTrainer:
                 if patience_counter >= stagnation_threshold:
                     print(f"🛑 Early stopping: No improvement for {stagnation_threshold} evaluations")
                     break
-            
+                
             # Progress reporting
             if (epoch + 1) % 25 == 0:
                 loss_val = losses.get('ner', 0)

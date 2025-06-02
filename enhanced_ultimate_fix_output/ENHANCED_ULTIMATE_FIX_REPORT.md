@@ -2,9 +2,9 @@
 
 ## 🎯 Advanced NER Training for 0.9+ F1 Performance
 
-**Generated:** 2025-06-01 15:08:36  
+**Generated:** 2025-06-02 03:03:49  
 **Random Seed:** 42  
-**Training Time:** 50.45 seconds  
+**Training Time:** 51.81 seconds  
 **Total Examples:** 3,025  
 **Training Iterations:** 250  
 
@@ -29,53 +29,48 @@
 
 ## 🏆 Enhanced Performance Results
 
-**Overall F1 Score:** 0.9361  
-**Best F1 Achieved:** 0.9361  
-**Best Min Entity F1:** 0.8687  
-**Success Rate (≥0.9):** 8/11 entities (72.7%)  
-**Good Performance (≥0.85):** 11/11 entities (100.0%)  
+**Overall F1 Score:** 0.9423  
+**Best F1 Achieved:** 0.9423  
+**Best Min Entity F1:** 0.7561  
+**Success Rate (≥0.9):** 9/11 entities (81.8%)  
+**Good Performance (≥0.85):** 10/11 entities (90.9%)  
 
 ### Enhanced Per-Entity Performance
 
 | Entity | F1 Score | Precision | Recall | Support | Status | Improvement Target |
 |--------|----------|-----------|---------|---------|--------|-------------------|
-| ARMREST | 0.9760 | 0.9683 | 0.9839 | 62 | 🎯 EXCELLENT | Maintain |
-| BACKREST | 0.8732 | 0.9394 | 0.8158 | 38 | ⚡ GOOD | Fine-tune to 0.9+ |
-| HEADREST | 0.9533 | 1.0000 | 0.9107 | 56 | 🎯 EXCELLENT | Maintain |
-| CUSHION | 0.8687 | 0.8600 | 0.8776 | 49 | ⚡ GOOD | Fine-tune to 0.9+ |
-| MATERIAL | 0.9574 | 0.9890 | 0.9278 | 97 | 🎯 EXCELLENT | Maintain |
-| LUMBAR_SUPPORT | 0.9220 | 0.8904 | 0.9559 | 68 | 🎯 EXCELLENT | Maintain |
-| RECLINER | 0.9494 | 0.9868 | 0.9146 | 82 | 🎯 EXCELLENT | Maintain |
-| FOOTREST | 0.9841 | 1.0000 | 0.9688 | 32 | 🎯 EXCELLENT | Maintain |
-| SEAT_MESSAGE | 0.8741 | 0.8676 | 0.8806 | 67 | ⚡ GOOD | Fine-tune to 0.9+ |
-| SEAT_WARMER | 0.9650 | 0.9718 | 0.9583 | 72 | 🎯 EXCELLENT | Maintain |
-| TRAYTABLE | 0.9436 | 0.8932 | 1.0000 | 92 | 🎯 EXCELLENT | Maintain |
+| ARMREST | 0.9848 | 0.9848 | 0.9848 | 66 | 🎯 EXCELLENT | Maintain |
+| BACKREST | 0.7561 | 0.6889 | 0.8378 | 37 | 🔧 NEEDS WORK | Major improvement needed |
+| HEADREST | 1.0000 | 1.0000 | 1.0000 | 52 | 🎯 EXCELLENT | Maintain |
+| CUSHION | 0.9892 | 1.0000 | 0.9787 | 47 | 🎯 EXCELLENT | Maintain |
+| MATERIAL | 0.9082 | 0.8990 | 0.9175 | 97 | 🎯 EXCELLENT | Maintain |
+| LUMBAR_SUPPORT | 0.9062 | 0.9667 | 0.8529 | 68 | 🎯 EXCELLENT | Maintain |
+| RECLINER | 0.9625 | 0.9506 | 0.9747 | 79 | 🎯 EXCELLENT | Maintain |
+| FOOTREST | 0.9851 | 1.0000 | 0.9706 | 34 | 🎯 EXCELLENT | Maintain |
+| SEAT_MESSAGE | 0.8986 | 0.8986 | 0.8986 | 69 | ⚡ GOOD | Fine-tune to 0.9+ |
+| SEAT_WARMER | 0.9706 | 0.9851 | 0.9565 | 69 | 🎯 EXCELLENT | Maintain |
+| TRAYTABLE | 0.9785 | 0.9579 | 1.0000 | 91 | 🎯 EXCELLENT | Maintain |
 
 ## 📈 Performance Analysis
 
 ### 🎉 SUCCESS ACHIEVED!
 
-✅ **Target met:** 8/11 entities achieved ≥ 0.9 F1 score!  
+✅ **Target met:** 9/11 entities achieved ≥ 0.9 F1 score!  
 ✅ **Enhanced techniques successful:** Advanced augmentation and training strategies proved effective.  
 
 ## 🎯 Recommendations for Further Improvement
 
 ### Entities Needing Attention
 
-**BACKREST** (F1: 0.873):
+**BACKREST** (F1: 0.756):
+- Focus on reducing false positives (improve precision)
+- Add more negative examples and boundary cases
+- Current support: 37 examples
+
+**SEAT_MESSAGE** (F1: 0.899):
 - Focus on reducing false negatives (improve recall)
 - Add more diverse positive examples and synonyms
-- Current support: 38 examples
-
-**CUSHION** (F1: 0.869):
-- Focus on reducing false positives (improve precision)
-- Add more negative examples and boundary cases
-- Current support: 49 examples
-
-**SEAT_MESSAGE** (F1: 0.874):
-- Focus on reducing false positives (improve precision)
-- Add more negative examples and boundary cases
-- Current support: 67 examples
+- Current support: 69 examples
 
 ### General Recommendations
 
@@ -105,5 +100,5 @@ enhanced_ultimate_fix_output/
 ```
 
 ---
-*Enhanced Ultimate Fix Complete Analytics Report generated on 2025-06-01 15:08:36*  
+*Enhanced Ultimate Fix Complete Analytics Report generated on 2025-06-02 03:03:49*  
 *Targeting 0.9+ F1 performance with advanced NER training techniques*
