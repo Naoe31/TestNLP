@@ -1,6 +1,6 @@
 # Ultimate Seat Analysis Report
 
-**Generated on:** 2025-06-02 11:56:01
+**Generated on:** 2025-06-02 15:39:12
 **Random Seed:** 42
 
 ## 🎯 Executive Summary
@@ -12,36 +12,36 @@ This comprehensive analysis combines:
 - **Cross-modal Analytics** for holistic understanding
 
 ## 📊 Dataset Overview
-- **Total Unique Reviews:** 877
-- **Total Entity Mentions:** 1,720
+- **Total Unique Reviews:** 821
+- **Total Entity Mentions:** 1,459
 - **Entities Identified:** 11 types
 
 ## 🤖 Named Entity Recognition Performance
 ### Overall Performance:
-- **Precision:** 0.965
-- **Recall:** 0.970
-- **F1-Score:** 0.967
+- **Precision:** 0.946
+- **Recall:** 0.960
+- **F1-Score:** 0.953
 
 ### Per-Entity Performance:
 | Entity | Precision | Recall | F1-Score | Support |
 |--------|-----------|--------|----------|----------|
-| ARMREST | 1.000 | 1.000 | 1.000 | 22 |
-| BACKREST | 1.000 | 1.000 | 1.000 | 21 |
-| CUSHION | 1.000 | 1.000 | 1.000 | 13 |
-| FOOTREST | 1.000 | 1.000 | 1.000 | 13 |
-| HEADREST | 1.000 | 1.000 | 1.000 | 14 |
-| LUMBAR_SUPPORT | 0.900 | 0.900 | 0.900 | 10 |
-| MATERIAL | 0.926 | 0.926 | 0.926 | 27 |
-| RECLINER | 0.947 | 0.947 | 0.947 | 19 |
-| SEAT_MESSAGE | 0.913 | 0.913 | 0.913 | 23 |
-| SEAT_WARMER | 1.000 | 1.000 | 1.000 | 15 |
-| TRAYTABLE | 0.955 | 1.000 | 0.977 | 21 |
+| ARMREST | 0.923 | 1.000 | 0.960 | 12 |
+| BACKREST | 1.000 | 1.000 | 1.000 | 22 |
+| CUSHION | 1.000 | 0.909 | 0.952 | 11 |
+| FOOTREST | 1.000 | 1.000 | 1.000 | 9 |
+| HEADREST | 1.000 | 1.000 | 1.000 | 17 |
+| LUMBAR_SUPPORT | 1.000 | 1.000 | 1.000 | 8 |
+| MATERIAL | 0.967 | 0.935 | 0.951 | 31 |
+| RECLINER | 0.833 | 0.952 | 0.889 | 21 |
+| SEAT_MESSAGE | 0.852 | 0.852 | 0.852 | 27 |
+| SEAT_WARMER | 0.960 | 1.000 | 0.980 | 24 |
+| TRAYTABLE | 1.000 | 1.000 | 1.000 | 17 |
 
 ## 💭 Sentiment Analysis Results
 ### Overall Sentiment Distribution:
-- **Positive:** 78.1%
-- **Negative:** 21.9%
-- **Average Confidence:** 0.995
+- **Positive:** 75.9%
+- **Negative:** 24.1%
+- **Average Confidence:** 0.996
 
 ## 🎨 Kansei Engineering Analysis
 ## 📁 Generated Outputs
@@ -50,11 +50,17 @@ This comprehensive analysis combines:
 - `kansei_design_insights.json` - Detailed Kansei insights
 
 ### Visualizations:
-- `plots/ner_training_performance.png` - NER training progress
-- `plots/ner_per_label_performance.png` - Entity-wise performance
+- `plots/training_progress.png` - Training progress with F1 scores
+- `plots/per_entity_progress.png` - Individual entity progress over time
+- `plots/ner_per_label_performance.png` - Final entity-wise performance
 - `plots/kansei_emotion_distribution.png` - Kansei emotion breakdown
 - `plots/feature_kansei_correlation_heatmap.png` - Component-emotion correlation
-- `wordclouds/overall_wordcloud.png` - Overall word cloud
+- `plots/component_sentiment.png` - Sentiment distribution by component
+- `plots/component_frequency.png` - Component mention frequency
+- `wordclouds/overall_wordcloud.png` - Overall text word cloud
+- `wordclouds/positive_sentiment_wordcloud.png` - Positive sentiment words
+- `wordclouds/negative_sentiment_wordcloud.png` - Negative sentiment words
+- `wordclouds/[entity]_wordcloud.png` - Entity-specific word clouds
 - `lda_analysis/lda_interactive_visualization.html` - Interactive LDA topics
 
 ## 🚀 Next Steps
