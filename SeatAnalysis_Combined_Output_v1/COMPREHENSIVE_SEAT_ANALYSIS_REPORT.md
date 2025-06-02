@@ -1,8 +1,8 @@
 # Comprehensive Seat Feedback Analysis Report
 
-**Generated:** 2025-06-02 06:23:20
+**Generated:** 2025-06-02 12:47:53
 **Random Seed Used for Training:** 42
-**Total NER Training Time:** 151.44 seconds
+**Total NER Training Time:** 141.72 seconds
 
 ## 1. Data Overview
 - Total Unique Reviews Analyzed (for Sentiment/Kansei): 887
