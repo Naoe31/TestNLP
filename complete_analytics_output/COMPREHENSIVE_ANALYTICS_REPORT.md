@@ -1,8 +1,8 @@
 # Complete Analytics Training Report
 
-**Generated:** 2025-06-01 04:27:52  
+**Generated:** 2025-06-02 03:36:30  
 **Random Seed:** 42  
-**Training Time:** 154.12 seconds  
+**Training Time:** 125.31 seconds  
 
 ## 📊 Training Data Composition
 
@@ -15,24 +15,24 @@
 
 ## 🏆 Final NER Results
 
-**Overall F1 Score:** 0.9506  
+**Overall F1 Score:** 0.9476  
 **Entities ≥ 0.9:** 9/11  
 
 ### Per-Entity Results
 
 | Entity | F1 Score | Precision | Recall | Support | Status |
 |--------|----------|-----------|---------|---------|--------|
-| ARMREST | 1.0000 | 1.0000 | 1.0000 | 15 | ✅ |
-| BACKREST | 0.9500 | 0.9500 | 0.9500 | 20 | ✅ |
-| HEADREST | 1.0000 | 1.0000 | 1.0000 | 18 | ✅ |
-| CUSHION | 1.0000 | 1.0000 | 1.0000 | 18 | ✅ |
-| MATERIAL | 0.5455 | 0.7500 | 0.4286 | 7 | ❌ |
-| LUMBAR_SUPPORT | 0.7143 | 0.7143 | 0.7143 | 7 | ❌ |
-| RECLINER | 0.9714 | 0.9444 | 1.0000 | 17 | ✅ |
-| FOOTREST | 1.0000 | 1.0000 | 1.0000 | 19 | ✅ |
-| SEAT_MESSAGE | 0.9231 | 0.9600 | 0.8889 | 27 | ✅ |
-| SEAT_WARMER | 0.9474 | 1.0000 | 0.9000 | 20 | ✅ |
-| TRAYTABLE | 0.9818 | 0.9643 | 1.0000 | 27 | ✅ |
+| ARMREST | 0.9677 | 1.0000 | 0.9375 | 16 | ✅ |
+| BACKREST | 0.9333 | 0.9130 | 0.9545 | 22 | ✅ |
+| HEADREST | 0.9767 | 1.0000 | 0.9545 | 22 | ✅ |
+| CUSHION | 0.9767 | 1.0000 | 0.9545 | 22 | ✅ |
+| MATERIAL | 0.7619 | 0.7273 | 0.8000 | 10 | ❌ |
+| LUMBAR_SUPPORT | 1.0000 | 1.0000 | 1.0000 | 7 | ✅ |
+| RECLINER | 0.9231 | 0.9474 | 0.9000 | 20 | ✅ |
+| FOOTREST | 1.0000 | 1.0000 | 1.0000 | 16 | ✅ |
+| SEAT_MESSAGE | 0.8800 | 0.9167 | 0.8462 | 26 | ⚠️ |
+| SEAT_WARMER | 1.0000 | 1.0000 | 1.0000 | 21 | ✅ |
+| TRAYTABLE | 0.9667 | 0.9355 | 1.0000 | 29 | ✅ |
 
 ## 📈 Generated Visualizations
 
