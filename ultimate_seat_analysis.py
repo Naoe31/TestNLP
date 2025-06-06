@@ -1297,6 +1297,8 @@ class KanseiModule:
         self.corpus = corpus
         self.df = full_df_with_ner_sentiment
         self.stop_words_kansei = set(nltk.corpus.stopwords.words('english'))
+        self.output_dir = "ultimate_output"  # Add output directory
+        ensure_directory(self.output_dir)  # Ensure it exists
 
     def _preprocess_text_for_kansei_lda(self, text):
         """Preprocessing specific for Kansei LDA mapping"""
@@ -1470,37 +1472,25 @@ class KanseiModule:
                     'avg_confidence': confidence,
                     'reliability': 'High' if confidence > 0.7 else 'Medium' if confidence > 0.4 else 'Low'
                 }
+                
+        # Save insights to JSON file
+        insights_file = os.path.join(self.output_dir, "kansei_design_insights.json")
+        try:
+            with open(insights_file, 'w', encoding='utf-8') as f:
+                json.dump(insights, f, indent=4, ensure_ascii=False)
+            logger.info(f"Kansei design insights saved to {insights_file}")
+        except Exception as e:
+            logger.error(f"Error saving Kansei design insights: {e}")
+            
+        # Save the merged DataFrame with Kansei insights
+        merged_file = os.path.join(self.output_dir, "processed_feedback_with_kansei.csv")
+        try:
+            merged_df_for_insights.to_csv(merged_file, index=False, encoding='utf-8')
+            logger.info(f"Merged feedback with Kansei insights saved to {merged_file}")
+        except Exception as e:
+            logger.error(f"Error saving merged feedback with Kansei insights: {e}")
+
         return insights, merged_df_for_insights
-
-    def analyze_emotion_trends(self, emotion_patterns: Dict):
-        logger.info("Analyzing Kansei emotion trends...")
-        trends = {'dominant_emotions': [], 'emerging_emotions': [], 'emotion_intensity': {}}
-        total_emotions = sum(emotion_patterns['primary_emotions'].values())
-        if total_emotions == 0: 
-            return trends
-
-        for emotion, count in emotion_patterns['primary_emotions'].items():
-            percentage = (count / total_emotions) * 100
-            if percentage > 15:
-                trends['dominant_emotions'].append({
-                    'emotion': emotion, 'percentage': percentage,
-                    'confidence': emotion_patterns['avg_confidence'].get(emotion, 0.0)
-                })
-        for emotion, count in emotion_patterns['secondary_emotions'].most_common(5):
-            if count > total_emotions * 0.05:
-                trends['emerging_emotions'].append({
-                    'emotion': emotion, 'frequency': count,
-                    'potential': 'High' if count > total_emotions * 0.1 else 'Medium'
-                })
-        for emotion, confidences in emotion_patterns['confidence_levels'].items():
-            if confidences:
-                avg_conf = sum(confidences) / len(confidences)
-                std_conf = np.std(confidences) if len(confidences) > 1 else 0.0
-                trends['emotion_intensity'][emotion] = {
-                    'average': avg_conf,
-                    'consistency': 'High' if std_conf < 0.2 else 'Medium' if std_conf < 0.4 else 'Low'
-                }
-        return trends
 
     def generate_recommendations(self, kansei_results_per_review: List[Dict]):
         logger.info("Generating Kansei design recommendations...")
