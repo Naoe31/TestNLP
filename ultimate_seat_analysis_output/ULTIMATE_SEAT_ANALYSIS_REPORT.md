@@ -1,6 +1,6 @@
 # Ultimate Seat Analysis Report
 
-**Generated on:** 2025-06-03 16:47:15
+**Generated on:** 2025-06-06 03:18:55
 **Random Seed:** 42
 
 ## 🎯 Executive Summary
@@ -12,36 +12,36 @@ This comprehensive analysis combines:
 - **Cross-modal Analytics** for holistic understanding
 
 ## 📊 Dataset Overview
-- **Total Unique Reviews:** 882
-- **Total Entity Mentions:** 1,588
+- **Total Unique Reviews:** 885
+- **Total Entity Mentions:** 1,567
 - **Entities Identified:** 11 types
 
 ## 🤖 Named Entity Recognition Performance
 ### Overall Performance:
-- **Precision:** 0.941
-- **Recall:** 0.941
-- **F1-Score:** 0.941
+- **Precision:** 0.946
+- **Recall:** 0.960
+- **F1-Score:** 0.953
 
 ### Per-Entity Performance:
 | Entity | Precision | Recall | F1-Score | Support |
 |--------|-----------|--------|----------|----------|
 | ARMREST | 1.000 | 1.000 | 1.000 | 14 |
-| BACKREST | 0.909 | 0.952 | 0.930 | 21 |
-| CUSHION | 0.786 | 0.846 | 0.815 | 13 |
-| FOOTREST | 1.000 | 1.000 | 1.000 | 12 |
-| HEADREST | 0.923 | 1.000 | 0.960 | 12 |
-| LUMBAR_SUPPORT | 1.000 | 0.667 | 0.800 | 9 |
-| MATERIAL | 0.926 | 0.926 | 0.926 | 27 |
-| RECLINER | 1.000 | 0.957 | 0.978 | 23 |
-| SEAT_MESSAGE | 0.947 | 0.900 | 0.923 | 20 |
-| SEAT_WARMER | 0.950 | 1.000 | 0.974 | 19 |
-| TRAYTABLE | 0.944 | 1.000 | 0.971 | 17 |
+| BACKREST | 0.950 | 1.000 | 0.974 | 19 |
+| CUSHION | 0.909 | 0.833 | 0.870 | 12 |
+| FOOTREST | 1.000 | 1.000 | 1.000 | 14 |
+| HEADREST | 0.938 | 1.000 | 0.968 | 15 |
+| LUMBAR_SUPPORT | 1.000 | 0.875 | 0.933 | 8 |
+| MATERIAL | 0.935 | 0.935 | 0.935 | 31 |
+| RECLINER | 0.917 | 0.957 | 0.936 | 23 |
+| SEAT_MESSAGE | 0.846 | 0.957 | 0.898 | 23 |
+| SEAT_WARMER | 1.000 | 0.955 | 0.977 | 22 |
+| TRAYTABLE | 1.000 | 1.000 | 1.000 | 19 |
 
 ## 💭 Sentiment Analysis Results
 ### Overall Sentiment Distribution:
-- **Positive:** 77.9%
-- **Negative:** 22.1%
-- **Average Confidence:** 0.996
+- **Positive:** 77.0%
+- **Negative:** 23.0%
+- **Average Confidence:** 0.995
 
 ## 🎨 Kansei Engineering Analysis
 ## 📁 Generated Outputs
