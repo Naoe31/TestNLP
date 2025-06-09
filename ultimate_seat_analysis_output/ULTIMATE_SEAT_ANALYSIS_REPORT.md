@@ -1,6 +1,6 @@
 # Ultimate Seat Analysis Report
 
-**Generated on:** 2025-06-09 13:38:04
+**Generated on:** 2025-06-09 14:18:31
 **Random Seed:** 42
 
 ## 🎯 Executive Summary
@@ -12,35 +12,35 @@ This comprehensive analysis combines:
 - **Cross-modal Analytics** for holistic understanding
 
 ## 📊 Dataset Overview
-- **Total Unique Reviews:** 915
-- **Total Entity Mentions:** 1,777
+- **Total Unique Reviews:** 890
+- **Total Entity Mentions:** 1,630
 - **Entities Identified:** 11 types
 
 ## 🤖 Named Entity Recognition Performance
 ### Overall Performance:
-- **Precision:** 0.947
-- **Recall:** 0.947
-- **F1-Score:** 0.947
+- **Precision:** 0.974
+- **Recall:** 0.959
+- **F1-Score:** 0.967
 
 ### Per-Entity Performance:
 | Entity | Precision | Recall | F1-Score | Support |
 |--------|-----------|--------|----------|----------|
-| ARMREST | 1.000 | 1.000 | 1.000 | 19 |
-| BACKREST | 0.938 | 1.000 | 0.968 | 15 |
-| CUSHION | 0.938 | 1.000 | 0.968 | 15 |
+| ARMREST | 0.947 | 1.000 | 0.973 | 18 |
+| BACKREST | 1.000 | 0.952 | 0.976 | 21 |
+| CUSHION | 1.000 | 1.000 | 1.000 | 13 |
 | FOOTREST | 1.000 | 1.000 | 1.000 | 14 |
-| HEADREST | 1.000 | 1.000 | 1.000 | 18 |
-| LUMBAR_SUPPORT | 0.857 | 0.750 | 0.800 | 8 |
-| MATERIAL | 0.871 | 0.844 | 0.857 | 32 |
-| RECLINER | 0.950 | 1.000 | 0.974 | 19 |
-| SEAT_MESSAGE | 0.935 | 0.935 | 0.935 | 31 |
-| SEAT_WARMER | 0.944 | 0.944 | 0.944 | 18 |
-| TRAYTABLE | 1.000 | 0.944 | 0.971 | 18 |
+| HEADREST | 1.000 | 1.000 | 1.000 | 15 |
+| LUMBAR_SUPPORT | 1.000 | 0.800 | 0.889 | 10 |
+| MATERIAL | 0.923 | 1.000 | 0.960 | 24 |
+| RECLINER | 0.941 | 1.000 | 0.970 | 16 |
+| SEAT_MESSAGE | 0.962 | 0.862 | 0.909 | 29 |
+| SEAT_WARMER | 1.000 | 0.941 | 0.970 | 17 |
+| TRAYTABLE | 1.000 | 1.000 | 1.000 | 20 |
 
 ## 💭 Sentiment Analysis Results
 ### Overall Sentiment Distribution:
-- **Positive:** 78.4%
-- **Negative:** 21.6%
+- **Positive:** 78.0%
+- **Negative:** 22.0%
 - **Average Confidence:** 0.996
 
 ## 🎨 Kansei Engineering Analysis
