@@ -1,6 +1,6 @@
 # Ultimate Seat Analysis Report
 
-**Generated on:** 2025-06-06 03:18:55
+**Generated on:** 2025-06-09 13:38:04
 **Random Seed:** 42
 
 ## 🎯 Executive Summary
@@ -12,36 +12,36 @@ This comprehensive analysis combines:
 - **Cross-modal Analytics** for holistic understanding
 
 ## 📊 Dataset Overview
-- **Total Unique Reviews:** 885
-- **Total Entity Mentions:** 1,567
+- **Total Unique Reviews:** 915
+- **Total Entity Mentions:** 1,777
 - **Entities Identified:** 11 types
 
 ## 🤖 Named Entity Recognition Performance
 ### Overall Performance:
-- **Precision:** 0.946
-- **Recall:** 0.960
-- **F1-Score:** 0.953
+- **Precision:** 0.947
+- **Recall:** 0.947
+- **F1-Score:** 0.947
 
 ### Per-Entity Performance:
 | Entity | Precision | Recall | F1-Score | Support |
 |--------|-----------|--------|----------|----------|
-| ARMREST | 1.000 | 1.000 | 1.000 | 14 |
-| BACKREST | 0.950 | 1.000 | 0.974 | 19 |
-| CUSHION | 0.909 | 0.833 | 0.870 | 12 |
+| ARMREST | 1.000 | 1.000 | 1.000 | 19 |
+| BACKREST | 0.938 | 1.000 | 0.968 | 15 |
+| CUSHION | 0.938 | 1.000 | 0.968 | 15 |
 | FOOTREST | 1.000 | 1.000 | 1.000 | 14 |
-| HEADREST | 0.938 | 1.000 | 0.968 | 15 |
-| LUMBAR_SUPPORT | 1.000 | 0.875 | 0.933 | 8 |
-| MATERIAL | 0.935 | 0.935 | 0.935 | 31 |
-| RECLINER | 0.917 | 0.957 | 0.936 | 23 |
-| SEAT_MESSAGE | 0.846 | 0.957 | 0.898 | 23 |
-| SEAT_WARMER | 1.000 | 0.955 | 0.977 | 22 |
-| TRAYTABLE | 1.000 | 1.000 | 1.000 | 19 |
+| HEADREST | 1.000 | 1.000 | 1.000 | 18 |
+| LUMBAR_SUPPORT | 0.857 | 0.750 | 0.800 | 8 |
+| MATERIAL | 0.871 | 0.844 | 0.857 | 32 |
+| RECLINER | 0.950 | 1.000 | 0.974 | 19 |
+| SEAT_MESSAGE | 0.935 | 0.935 | 0.935 | 31 |
+| SEAT_WARMER | 0.944 | 0.944 | 0.944 | 18 |
+| TRAYTABLE | 1.000 | 0.944 | 0.971 | 18 |
 
 ## 💭 Sentiment Analysis Results
 ### Overall Sentiment Distribution:
-- **Positive:** 77.0%
-- **Negative:** 23.0%
-- **Average Confidence:** 0.995
+- **Positive:** 78.4%
+- **Negative:** 21.6%
+- **Average Confidence:** 0.996
 
 ## 🎨 Kansei Engineering Analysis
 ## 📁 Generated Outputs
